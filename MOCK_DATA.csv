@@ -1,0 +1,1001 @@
+zoo,scientificName,commonName,givenName,gender,dateOfBirth,age,isTransportable
+Edmonton Zoo,Spizaetus coronatus,"Hawk-eagle, crowned",Shawn,Male,2022-08-12,53,false
+Toronto Zoo,Semnopithecus entellus,"Langur, gray",Bethina,Female,2022-05-20,38,true
+Vancouver Zoo,Canis lupus lycaon,"Wolf, timber",Corliss,Female,2023-05-23,67,false
+Toronto Zoo,Caiman crocodilus,Spectacled caiman,Brenna,Female,2023-12-26,27,true
+Toronto Zoo,Theropithecus gelada,"Monkey, bleeding heart",Audry,Female,2022-10-22,79,true
+Vancouver Zoo,Hymenolaimus malacorhynchus,Blue duck,Heall,Male,2023-11-13,64,true
+Vancouver Zoo,unavailable,Civet (unidentified),Dody,Female,2023-01-30,42,true
+Vancouver Zoo,Terrapene carolina,Eastern box turtle,Gifford,Male,2022-04-12,65,false
+Toronto Zoo,Pseudalopex gymnocercus,"Zorro, azara's",Jeremie,Male,2021-11-09,37,true
+Vancouver Zoo,Cervus canadensis,"Wapiti, elk,",Floyd,Male,2023-03-29,30,false
+Washington Zoo,Coendou prehensilis,Prehensile-tailed porcupine,Aubrey,Male,2023-08-09,29,true
+Toronto Zoo,Lycosa godeffroyi,Wolf spider,Dre,Female,2022-03-29,41,false
+Vancouver Zoo,Paroaria gularis,"Cardinal, red-capped",Grete,Female,2021-03-28,21,false
+Vancouver Zoo,Centrocercus urophasianus,"Hen, sage",Ilene,Female,2021-09-04,20,true
+Toronto Zoo,Neotis denhami,"Bustard, denham's",Herve,Male,2021-11-30,66,true
+Edmonton Zoo,Mazama gouazoubira,"Brocket, brown",Verney,Male,2021-11-30,42,true
+Edmonton Zoo,Varanus komodensis,Komodo dragon,Zahara,Female,2022-09-26,37,false
+Toronto Zoo,Paraxerus cepapi,African bush squirrel,Tiebout,Male,2023-01-23,78,true
+Toronto Zoo,Ursus americanus,Black bear,Devinne,Female,2021-04-11,26,false
+Toronto Zoo,Halcyon smyrnesis,"Kingfisher, white-throated",Teodoro,Male,2022-03-29,59,true
+Washington Zoo,Pseudalopex gymnocercus,"Zorro, azara's",Tuckie,Male,2021-06-08,67,false
+Vancouver Zoo,Bubalus arnee,"Buffalo, wild water",Jillayne,Female,2021-11-17,48,false
+Toronto Zoo,Macaca radiata,Bonnet macaque,Jared,Male,2024-02-01,75,false
+Edmonton Zoo,Canis mesomelas,Black-backed jackal,Vanna,Female,2023-07-27,34,true
+Vancouver Zoo,Tockus erythrorhyncus,Red-billed hornbill,Bendicty,Male,2022-02-05,28,false
+Washington Zoo,Anser caerulescens,"Goose, snow",Roddy,Male,2023-06-22,50,false
+Washington Zoo,Ratufa indica,"Squirrel, malabar",Petr,Male,2023-10-27,42,false
+Vancouver Zoo,Connochaetus taurinus,"Gnu, brindled",Kimbra,Female,2021-08-21,28,true
+Edmonton Zoo,Chauna torquata,Crested screamer,Gaven,Male,2022-08-28,77,false
+Vancouver Zoo,Rhea americana,Greater rhea,Huey,Male,2022-11-16,70,false
+Vancouver Zoo,Rhea americana,Common rhea,Vikki,Female,2021-07-16,43,true
+Edmonton Zoo,Mirounga leonina,"Seal, southern elephant",Iris,Female,2023-07-22,66,true
+Vancouver Zoo,Smithopsis crassicaudata,"Dunnart, fat-tailed",Tiffi,Female,2021-11-07,77,true
+Edmonton Zoo,Himantopus himantopus,"Stilt, black-winged",Kaylyn,Female,2021-03-20,68,true
+Toronto Zoo,Myrmecophaga tridactyla,Giant anteater,Ivett,Female,2023-09-08,48,false
+Edmonton Zoo,Carduelis pinus,"Siskin, pine",Lilly,Female,2022-05-14,55,false
+Edmonton Zoo,Axis axis,Chital,Ezri,Male,2023-06-03,38,false
+Toronto Zoo,Terrapene carolina,Eastern box turtle,Erroll,Male,2022-12-12,80,true
+Washington Zoo,Platalea leucordia,White spoonbill,Coop,Male,2022-02-10,40,false
+Edmonton Zoo,Pavo cristatus,"Peacock, blue",Morse,Male,2023-09-16,40,false
+Edmonton Zoo,Ourebia ourebi,Oribi,Edin,Female,2023-05-20,64,false
+Edmonton Zoo,Merops nubicus,Carmine bee-eater,Johnnie,Male,2023-02-09,73,false
+Edmonton Zoo,Varanus sp.,Ground monitor (unidentified),Joela,Female,2023-09-10,62,false
+Washington Zoo,Tockus erythrorhyncus,Red-billed hornbill,Gerome,Male,2021-10-26,30,false
+Washington Zoo,Tetracerus quadricornis,"Antelope, four-horned",Aurel,Female,2022-02-16,19,false
+Vancouver Zoo,Rhea americana,Common rhea,Pavia,Female,2021-06-30,74,true
+Toronto Zoo,Nesomimus trifasciatus,Galapagos mockingbird,Fraser,Male,2021-01-07,59,false
+Toronto Zoo,Coluber constrictor,American racer,Steven,Male,2022-01-11,76,false
+Edmonton Zoo,Ephippiorhynchus mycteria,Black-necked stork,Kelvin,Male,2022-10-26,39,false
+Edmonton Zoo,Threskionis aethiopicus,Sacred ibis,Gardener,Male,2023-07-25,64,true
+Edmonton Zoo,Climacteris melanura,"Creeper, black-tailed tree",Jarrod,Male,2023-01-04,39,false
+Toronto Zoo,Ctenophorus ornatus,"Dragon, netted rock",Hasty,Male,2022-09-08,38,true
+Washington Zoo,Platalea leucordia,European spoonbill,Maybelle,Female,2024-02-27,57,false
+Toronto Zoo,Dromaeus novaehollandiae,Emu,Willy,Female,2023-12-07,50,false
+Washington Zoo,Spheniscus magellanicus,"Penguin, magellanic",Albrecht,Male,2023-09-30,39,false
+Washington Zoo,Microcebus murinus,"Lemur, grey mouse",Philippine,Female,2021-01-22,70,false
+Toronto Zoo,Callorhinus ursinus,Northern fur seal,Windy,Female,2021-04-28,64,false
+Washington Zoo,Sula dactylatra,"Booby, masked",Nessi,Female,2022-03-01,62,false
+Vancouver Zoo,Connochaetus taurinus,Brindled gnu,Ikey,Male,2022-08-09,32,false
+Vancouver Zoo,Columba palumbus,"Pigeon, wood",Carol-jean,Female,2020-12-20,18,true
+Vancouver Zoo,Eudyptula minor,"Penguin, fairy",Van,Male,2024-01-11,58,true
+Edmonton Zoo,Macropus rufogriseus,"Wallaby, red-necked",Kerwin,Male,2021-08-13,56,false
+Edmonton Zoo,Rangifer tarandus,Caribou,Mal,Male,2022-08-29,49,true
+Edmonton Zoo,Dasypus septemcincus,Seven-banded armadillo,Lorene,Female,2023-04-07,18,true
+Toronto Zoo,Uraeginthus granatina,"Grenadier, common",Rosene,Female,2023-11-29,36,true
+Edmonton Zoo,Bucorvus leadbeateri,"Hornbill, southern ground",Yancy,Male,2023-05-01,69,false
+Edmonton Zoo,Helogale undulata,"Mongoose, eastern dwarf",Zahara,Female,2022-08-28,33,true
+Edmonton Zoo,Junonia genoveua,Genoveva,Vyky,Female,2023-06-04,53,false
+Edmonton Zoo,Procyon lotor,"Raccoon, common",Joann,Female,2021-07-13,76,true
+Edmonton Zoo,Cygnus buccinator,Trumpeter swan,Corbin,Male,2021-02-22,48,false
+Washington Zoo,Spilogale gracilis,Western spotted skunk,Terrance,Male,2021-05-10,19,true
+Washington Zoo,Eumetopias jubatus,Steller sea lion,Myrwyn,Male,2022-01-12,23,false
+Edmonton Zoo,Cebus apella,"Capuchin, brown",Kippar,Male,2023-11-30,68,false
+Edmonton Zoo,Meles meles,"Badger, eurasian",Benedict,Male,2021-05-03,73,true
+Washington Zoo,Uraeginthus angolensis,Blue waxbill,Cosetta,Female,2021-05-08,27,true
+Washington Zoo,Geococcyx californianus,Greater roadrunner,Malcolm,Male,2022-03-29,19,true
+Washington Zoo,Francolinus leucoscepus,Yellow-necked spurfowl,Teodoro,Male,2023-05-08,35,false
+Vancouver Zoo,Tockus erythrorhyncus,Red-billed hornbill,Adria,Female,2022-04-04,62,false
+Washington Zoo,Ovibos moschatus,Musk ox,Brita,Female,2023-06-24,47,false
+Vancouver Zoo,Cynomys ludovicianus,"Dog, black-tailed prairie",Gearalt,Male,2024-01-17,30,false
+Edmonton Zoo,Ardea golieth,Giant heron,Janka,Female,2021-04-27,26,false
+Vancouver Zoo,Ctenophorus ornatus,Ornate rock dragon,Haven,Male,2023-01-21,30,false
+Vancouver Zoo,Naja haje,"Viper, egyptian",Albertina,Female,2021-10-24,72,true
+Vancouver Zoo,Eumetopias jubatus,Steller sea lion,Angela,Female,2022-04-27,39,true
+Toronto Zoo,Aegypius occipitalis,White-headed vulture,Abelard,Male,2022-02-18,55,false
+Edmonton Zoo,Cebus albifrons,White-fronted capuchin,Bernadine,Female,2021-05-02,39,true
+Toronto Zoo,Odocoileus hemionus,Black-tailed deer,Ferd,Male,2022-10-02,61,false
+Vancouver Zoo,Chlidonias leucopterus,"Tern, white-winged",Hallsy,Male,2022-09-04,57,false
+Toronto Zoo,Canis aureus,Golden jackal,Winifred,Female,2023-06-30,42,true
+Washington Zoo,Anastomus oscitans,"Openbill, asian",Marrissa,Female,2022-03-31,18,false
+Vancouver Zoo,Eolophus roseicapillus,Galah,Ivor,Male,2022-08-27,52,false
+Edmonton Zoo,Phasianus colchicus,Ring-necked pheasant,Rhody,Female,2022-12-26,75,true
+Washington Zoo,Nannopterum harrisi,Flightless cormorant,Hyatt,Male,2021-06-27,69,true
+Edmonton Zoo,Manouria emys,Burmese black mountain tortoise,Anatol,Male,2023-03-26,44,false
+Toronto Zoo,Tamiasciurus hudsonicus,"Squirrel, red",Boniface,Male,2022-11-28,68,false
+Washington Zoo,Grus antigone,Sarus crane,Chrysler,Female,2023-10-08,58,false
+Vancouver Zoo,Tachybaptus ruficollis,Dabchick,De witt,Male,2020-12-27,58,false
+Edmonton Zoo,Choloepus hoffmani,Two-toed tree sloth,Kincaid,Male,2022-03-04,58,false
+Edmonton Zoo,Hydrochoerus hydrochaeris,Capybara,Enrique,Male,2022-05-01,54,false
+Toronto Zoo,Macaca nemestrina,Pig-tailed macaque,Clary,Female,2023-07-27,26,true
+Vancouver Zoo,Threskionis aethiopicus,Sacred ibis,Willem,Male,2022-06-09,72,true
+Edmonton Zoo,Heloderma horridum,"Lizard, mexican beaded",Evangelin,Female,2021-11-02,49,false
+Toronto Zoo,Sauromalus obesus,Chuckwalla,Cahra,Female,2021-10-22,76,true
+Toronto Zoo,Sciurus niger,"Squirrel, eastern fox",Melisent,Female,2020-12-22,67,false
+Vancouver Zoo,Cracticus nigroagularis,Pied butcher bird,Terrance,Male,2022-02-09,38,false
+Toronto Zoo,Hyaena brunnea,Brown hyena,Alica,Female,2021-06-19,74,true
+Edmonton Zoo,Varanus sp.,Ground monitor (unidentified),Townsend,Male,2021-08-24,77,true
+Washington Zoo,Anser anser,Greylag goose,Rochester,Male,2022-07-05,59,true
+Washington Zoo,Macropus robustus,"Wallaby, euro",Stu,Male,2023-01-26,49,true
+Vancouver Zoo,Vanellus sp.,Lapwing (unidentified),Erie,Male,2021-04-11,59,false
+Toronto Zoo,Leipoa ocellata,Malleefowl,Layton,Male,2023-06-12,21,true
+Washington Zoo,Microcebus murinus,"Lemur, lesser mouse",Roberto,Male,2023-07-14,19,true
+Toronto Zoo,Antilope cervicapra,Blackbuck,Irving,Male,2022-04-12,70,false
+Edmonton Zoo,Paradoxurus hermaphroditus,"Cat, toddy",Dedra,Female,2021-03-09,43,true
+Edmonton Zoo,Bugeranus caruncalatus,Wattled crane,Frankie,Male,2021-02-21,36,false
+Toronto Zoo,Mazama gouazoubira,Savannah deer,Arv,Male,2021-07-20,61,true
+Toronto Zoo,Larus dominicanus,Southern black-backed gull,Madlen,Female,2023-06-02,78,false
+Toronto Zoo,Speotyte cuniculata,"Owl, burrowing",Anderson,Male,2022-09-22,63,false
+Toronto Zoo,Columba palumbus,"Dove, ring",Hayden,Male,2021-12-29,53,false
+Vancouver Zoo,Vulpes chama,"Fox, cape",Royal,Male,2024-04-03,45,false
+Washington Zoo,unavailable,"Gull, herring",Andy,Female,2024-02-03,21,false
+Washington Zoo,Psittacula krameri,Rose-ringed parakeet,Reagan,Male,2021-02-05,58,true
+Vancouver Zoo,Phalacrocorax niger,"Cormorant, little",Estevan,Male,2023-02-14,30,true
+Toronto Zoo,Carduelis pinus,"Siskin, pine",Kenneth,Male,2023-08-16,54,true
+Washington Zoo,Ephippiorhynchus mycteria,"Stork, jabiru",Sholom,Male,2022-09-23,23,true
+Edmonton Zoo,Hyaena brunnea,Brown hyena,Clement,Male,2022-03-23,47,false
+Toronto Zoo,Tockus erythrorhyncus,Red-billed hornbill,Constantia,Female,2022-04-18,58,false
+Washington Zoo,Hystrix cristata,Crested porcupine,Bjorn,Male,2022-07-14,67,true
+Washington Zoo,Ploceus rubiginosus,Chestnut weaver,Gates,Female,2021-02-03,35,false
+Vancouver Zoo,Vanellus chilensis,"Lapwing, southern",Julissa,Female,2021-02-06,56,true
+Toronto Zoo,Stercorarius longicausus,"Jaeger, long-tailed",Langsdon,Male,2020-12-21,78,false
+Vancouver Zoo,Haliaetus leucogaster,"Eagle, white-bellied sea",Vern,Male,2023-10-16,34,false
+Vancouver Zoo,Uraeginthus angolensis,Blue waxbill,Coralyn,Female,2022-11-23,52,false
+Washington Zoo,Pseudocheirus peregrinus,Common ringtail,Herrick,Male,2020-12-25,60,false
+Washington Zoo,Phoenicopterus ruber,Roseat flamingo,Kara,Female,2024-02-08,51,true
+Toronto Zoo,Ephippiorhynchus mycteria,Jabiru stork,Rhody,Female,2022-04-02,40,true
+Edmonton Zoo,Nycticorax nycticorax,Black-crowned night heron,Abbye,Female,2021-09-03,68,true
+Washington Zoo,Gazella granti,Grant's gazelle,Truda,Female,2024-01-16,42,true
+Washington Zoo,Morelia spilotes variegata,"Snake, carpet",Jasun,Male,2021-07-02,74,true
+Washington Zoo,Cordylus giganteus,Giant girdled lizard,Mervin,Male,2022-06-01,45,false
+Washington Zoo,Castor fiber,"Beaver, eurasian",Brennan,Male,2022-10-30,31,false
+Vancouver Zoo,Neotoma sp.,Woodrat (unidentified),Nadeen,Female,2021-04-13,50,false
+Vancouver Zoo,Eumetopias jubatus,Steller sea lion,Terra,Female,2023-08-10,67,false
+Toronto Zoo,Trichoglossus chlorolepidotus,Scaly-breasted lorikeet,Chlo,Female,2024-02-03,36,true
+Toronto Zoo,Cyrtodactylus louisiadensis,Ring-tailed gecko,Shara,Female,2022-05-09,73,false
+Washington Zoo,Pseudocheirus peregrinus,"Ringtail, common",Elli,Female,2022-06-01,38,true
+Toronto Zoo,Canis dingo,Dingo,Deloris,Female,2023-08-07,67,false
+Edmonton Zoo,Uraeginthus angolensis,Blue-breasted cordon bleu,Farlee,Male,2022-10-01,59,true
+Vancouver Zoo,Centrocercus urophasianus,Sage grouse,Jorrie,Female,2021-03-06,22,true
+Toronto Zoo,Egretta thula,Snowy egret,Rooney,Male,2021-06-30,78,false
+Edmonton Zoo,Lycosa godeffroyi,Wolf spider,Kizzee,Female,2023-06-30,52,true
+Edmonton Zoo,Agkistrodon piscivorus,"Moccasin, water",Burtie,Male,2023-10-07,67,false
+Washington Zoo,Trichosurus vulpecula,"Possum, golden brush-tailed",Karoline,Female,2021-09-11,44,true
+Edmonton Zoo,Phasianus colchicus,Ring-necked pheasant,Brett,Male,2023-12-28,55,false
+Toronto Zoo,Odocoileus hemionus,"Deer, black-tailed",Darrell,Male,2022-10-19,48,true
+Vancouver Zoo,Anitibyx armatus,Tawny eagle,Armand,Male,2020-12-28,67,false
+Edmonton Zoo,Ardea golieth,"Heron, goliath",Raul,Male,2023-08-25,19,false
+Edmonton Zoo,unavailable,Butterfly (unidentified),Bobbette,Female,2022-08-10,67,false
+Edmonton Zoo,Struthio camelus,Ostrich,Abby,Male,2023-09-01,24,true
+Washington Zoo,Vanellus armatus,Blacksmith plover,Elnora,Female,2020-12-26,39,true
+Edmonton Zoo,Coendou prehensilis,"Porcupine, tree",Tasia,Female,2024-01-31,20,false
+Washington Zoo,Tachybaptus ruficollis,"Grebe, little",Mel,Female,2023-07-09,53,true
+Vancouver Zoo,Gopherus agassizii,Desert tortoise,Dyan,Female,2023-11-26,56,false
+Washington Zoo,Tachybaptus ruficollis,Little grebe,Chrisy,Male,2021-10-13,79,true
+Edmonton Zoo,Caiman crocodilus,Spectacled caiman,Trudy,Female,2024-02-24,29,true
+Toronto Zoo,Semnopithecus entellus,"Langur, hanuman",Karim,Male,2024-02-04,63,true
+Edmonton Zoo,Carphophis sp.,Worm snake (unidentified),Alix,Male,2021-07-02,79,true
+Edmonton Zoo,unavailable,Hummingbird (unidentified),Kellen,Male,2021-10-04,51,true
+Vancouver Zoo,Pseudalopex gymnocercus,Pampa gray fox,Obadiah,Male,2021-11-06,58,true
+Washington Zoo,Ninox superciliaris,White-browed owl,Brier,Female,2023-05-08,78,true
+Toronto Zoo,Ratufa indica,Indian giant squirrel,Adele,Female,2023-03-02,74,false
+Washington Zoo,Grus rubicundus,"Crane, brolga",Hilary,Female,2021-03-18,51,false
+Toronto Zoo,Dendrocitta vagabunda,Rufous tree pie,Imelda,Female,2022-11-14,61,true
+Vancouver Zoo,Carduelis uropygialis,"Siskin, yellow-rumped",Kellie,Female,2021-02-19,67,false
+Vancouver Zoo,Anas punctata,Hottentot teal,Simona,Female,2023-10-13,53,false
+Toronto Zoo,Coluber constrictor,"Snake, buttermilk",Ursola,Female,2022-11-01,28,false
+Edmonton Zoo,Bassariscus astutus,"Cat, miner's",Elspeth,Female,2023-09-08,48,false
+Edmonton Zoo,Eumetopias jubatus,"Lion, steller's sea",Miof mela,Female,2022-06-14,47,false
+Toronto Zoo,Hippotragus niger,Sable antelope,Westleigh,Male,2021-06-26,19,false
+Vancouver Zoo,Cereopsis novaehollandiae,"Goose, cape barren",Veronike,Female,2021-11-14,71,false
+Washington Zoo,Loris tardigratus,Slender loris,Dieter,Male,2023-02-13,68,false
+Vancouver Zoo,Ceratotherium simum,White rhinoceros,Clayborn,Male,2021-09-24,57,true
+Toronto Zoo,Axis axis,Chital,Farrel,Male,2022-06-25,78,false
+Edmonton Zoo,Eubalaena australis,Baleen whale,Tammie,Male,2021-04-02,31,false
+Toronto Zoo,Pseudocheirus peregrinus,Ring-tailed possum,Alfredo,Male,2021-08-31,55,true
+Washington Zoo,Lutra canadensis,"Otter, canadian river",Dewain,Male,2023-09-29,57,true
+Vancouver Zoo,Naja sp.,Cobra (unidentified),Kippy,Female,2021-01-12,18,true
+Edmonton Zoo,unavailable,Flying fox (unidentified),Manuel,Male,2021-02-08,36,false
+Edmonton Zoo,Bison bison,"Bison, american",Loella,Female,2022-04-05,67,true
+Toronto Zoo,Varanus sp.,"Legaan, Monitor (unidentified)",Filmore,Male,2023-12-27,55,false
+Edmonton Zoo,Platalea leucordia,"Spoonbill, white",Carlynn,Female,2023-11-10,29,false
+Toronto Zoo,Manouria emys,"Tortoise, burmese black mountain",Erastus,Male,2023-04-07,32,false
+Toronto Zoo,Dasyurus maculatus,Tiger cat,Xymenes,Male,2022-07-19,44,false
+Toronto Zoo,Lasiorhinus latifrons,Southern hairy-nosed wombat,Veronika,Female,2023-10-16,75,true
+Edmonton Zoo,Pterocles gutturalis,"Sandgrouse, yellow-throated",Georgette,Female,2021-01-03,62,true
+Vancouver Zoo,Anitibyx armatus,Tawny eagle,Gusty,Female,2022-03-29,28,false
+Washington Zoo,Centrocercus urophasianus,"Grouse, sage",Maxy,Female,2021-05-29,78,false
+Vancouver Zoo,Rhea americana,"Rhea, common",Ario,Male,2021-01-05,42,true
+Toronto Zoo,Galago crassicaudataus,"Bushbaby, large-eared",Shanna,Female,2023-08-07,46,false
+Washington Zoo,Potorous tridactylus,Potoroo,Shelly,Female,2024-03-01,61,false
+Toronto Zoo,Cynomys ludovicianus,Black-tailed prairie dog,Rose,Female,2022-10-11,18,true
+Washington Zoo,Ceratotherium simum,"Rhinoceros, white",Anabelle,Female,2023-12-17,53,true
+Washington Zoo,Pseudocheirus peregrinus,"Possum, ring-tailed",Leicester,Male,2023-06-12,28,false
+Edmonton Zoo,Otaria flavescens,Southern sea lion,Khalil,Male,2023-04-14,28,true
+Edmonton Zoo,Neotis denhami,Denham's bustard,Babita,Female,2022-09-04,26,false
+Edmonton Zoo,Castor fiber,Eurasian beaver,Obed,Male,2023-01-28,47,false
+Vancouver Zoo,Gymnorhina tibicen,Australian magpie,Hall,Male,2022-12-23,52,true
+Edmonton Zoo,Centrocercus urophasianus,Greater sage grouse,Evin,Male,2021-08-18,78,true
+Vancouver Zoo,Grus canadensis,"Crane, sandhill",Aleda,Female,2022-07-08,74,false
+Edmonton Zoo,Corvus albicollis,Cape raven,Kingsly,Male,2021-06-01,60,true
+Toronto Zoo,Trichechus inunguis,Manatee,Corny,Male,2021-07-04,33,true
+Toronto Zoo,Melanerpes erythrocephalus,Red-headed woodpecker,Hobart,Male,2024-02-09,67,false
+Toronto Zoo,Crotalus cerastes,Sidewinder,Julio,Male,2022-07-22,60,false
+Washington Zoo,Crotalus adamanteus,"Rattlesnake, eastern diamondback",Norris,Male,2020-12-22,73,false
+Washington Zoo,Agouti paca,Paca,Arlina,Female,2021-09-02,49,true
+Washington Zoo,Cercatetus concinnus,"Possum, western pygmy",Leanor,Female,2021-12-21,28,true
+Vancouver Zoo,Pseudoleistes virescens,"Marshbird, brown and yellow",Errol,Male,2020-12-29,32,true
+Vancouver Zoo,Hippotragus niger,Sable antelope,Leighton,Male,2023-04-25,46,false
+Washington Zoo,Connochaetus taurinus,Brindled gnu,Madelle,Female,2021-04-03,24,true
+Washington Zoo,Hyaena brunnea,Brown hyena,Forester,Male,2021-07-21,69,false
+Edmonton Zoo,Canis aureus,Indian jackal,Fairfax,Male,2024-03-18,75,true
+Toronto Zoo,Dicrurus adsimilis,Fork-tailed drongo,Craig,Male,2021-09-21,72,true
+Toronto Zoo,Ammospermophilus nelsoni,Nelson ground squirrel,Chance,Male,2021-12-01,52,false
+Toronto Zoo,Sarkidornis melanotos,"Duck, comb",Bess,Female,2021-03-06,31,false
+Washington Zoo,Semnopithecus entellus,Common langur,Helli,Female,2021-10-28,28,false
+Washington Zoo,Ramphastos tucanus,"Toucan, red-billed",Aristotle,Male,2020-12-28,41,true
+Edmonton Zoo,Speotyte cuniculata,Burrowing owl,Saree,Female,2024-01-10,48,true
+Vancouver Zoo,Elephas maximus bengalensis,"Elephant, asian",Horatius,Male,2022-10-20,20,false
+Washington Zoo,Dromaeus novaehollandiae,Emu,Marlane,Female,2023-01-18,80,false
+Vancouver Zoo,Cacatua tenuirostris,"Corella, long-billed",Tabbitha,Female,2023-05-11,68,true
+Toronto Zoo,Acridotheres tristis,"Mynah, indian",Olly,Male,2022-03-06,35,false
+Vancouver Zoo,Trichosurus vulpecula,Common brushtail possum,Ferd,Male,2023-02-09,77,true
+Toronto Zoo,Thylogale stigmatica,"Pademelon, red-legged",Tomaso,Male,2021-09-16,31,false
+Washington Zoo,Acrobates pygmaeus,Feathertail glider,Web,Male,2021-12-20,23,false
+Edmonton Zoo,Chlamydosaurus kingii,"Lizard, frilled",Quentin,Female,2022-05-01,34,false
+Toronto Zoo,Lorythaixoides concolor,"Bird, bare-faced go away",Cy,Male,2021-11-15,41,false
+Toronto Zoo,Ursus americanus,"Bear, american black",Simone,Male,2021-09-12,63,true
+Toronto Zoo,Ceratotherium simum,"Rhinoceros, white",Thom,Male,2021-06-30,28,false
+Toronto Zoo,Castor canadensis,"Beaver, north american",Barnebas,Male,2024-03-19,38,false
+Edmonton Zoo,Taurotagus oryx,"Eland, common",Eartha,Female,2021-07-20,21,false
+Toronto Zoo,Nannopterum harrisi,"Cormorant, flightless",Uta,Female,2022-03-31,54,true
+Toronto Zoo,Tragelaphus scriptus,Bushbuck,Ahmed,Male,2021-05-17,67,false
+Washington Zoo,Bucephala clangula,"Goldeneye, common",Micheil,Male,2023-12-15,62,false
+Edmonton Zoo,Gekko gecko,Tokay gecko,Tatiania,Female,2022-07-11,63,false
+Vancouver Zoo,Felis silvestris lybica,"Cat, european wild",Hurley,Male,2023-10-30,41,true
+Vancouver Zoo,Hystrix cristata,"Porcupine, crested",Milly,Female,2024-03-28,52,false
+Edmonton Zoo,Choloepus hoffmani,"Sloth, two-toed",Rodina,Female,2022-09-17,47,false
+Edmonton Zoo,Lamprotornis chalybaeus,"Starling, greater blue-eared",Vivianna,Female,2023-09-11,42,false
+Vancouver Zoo,Epicrates cenchria maurus,Columbian rainbow boa,Jeanna,Female,2023-10-31,50,true
+Washington Zoo,Echimys chrysurus,White-faced tree rat,Wilmer,Male,2021-03-30,64,true
+Edmonton Zoo,Ninox superciliaris,"Owl, white-browed",Carlene,Female,2024-03-09,59,true
+Washington Zoo,Rhea americana,Common rhea,Ham,Male,2022-12-04,31,true
+Washington Zoo,Felis chaus,"Cat, jungle",Keslie,Female,2023-10-17,38,false
+Washington Zoo,Sarkidornis melanotos,"Duck, comb",Dexter,Male,2022-06-03,64,false
+Toronto Zoo,Hymenolaimus malacorhynchus,Blue duck,Rivalee,Female,2021-08-04,37,true
+Edmonton Zoo,Varanus komodensis,"Dragon, komodo",Arabel,Female,2022-08-20,18,false
+Toronto Zoo,Choloepus hoffmani,Two-toed sloth,Siegfried,Male,2021-03-21,79,true
+Toronto Zoo,unavailable,Ant (unidentified),Ase,Male,2022-11-12,36,false
+Vancouver Zoo,Rangifer tarandus,Caribou,Flemming,Male,2021-10-07,50,true
+Toronto Zoo,Papio ursinus,Chacma baboon,Bondon,Male,2021-05-23,65,true
+Toronto Zoo,Dicrostonyx groenlandicus,Collared lemming,Julio,Male,2022-07-01,73,false
+Vancouver Zoo,Crotalus triseriatus,Dusky rattlesnake,Herbert,Male,2022-09-13,47,false
+Vancouver Zoo,Chlamydosaurus kingii,Frilled dragon,Alethea,Female,2022-09-30,60,false
+Edmonton Zoo,Choloepus hoffmani,"Sloth, hoffman's",Jeffry,Male,2022-04-07,80,false
+Vancouver Zoo,Uraeginthus granatina,Common grenadier,Ulrick,Male,2022-03-31,35,true
+Vancouver Zoo,Larus novaehollandiae,Silver gull,Jodi,Male,2021-05-03,70,false
+Vancouver Zoo,Mycteria leucocephala,"Stork, painted",Nichol,Female,2024-03-25,25,false
+Edmonton Zoo,Castor canadensis,American beaver,Tommi,Female,2023-03-06,19,false
+Washington Zoo,Melanerpes erythrocephalus,"Woodpecker, red-headed",Juditha,Female,2022-07-12,44,false
+Vancouver Zoo,Nyctanassa violacea,"Heron, yellow-crowned night",Leigh,Female,2023-11-07,51,false
+Washington Zoo,Ara chloroptera,"Macaw, red and blue",Randolph,Male,2023-02-07,51,true
+Edmonton Zoo,Panthera onca,Jaguar,Tracie,Male,2024-01-27,31,false
+Edmonton Zoo,Cercopithecus aethiops,"Monkey, vervet",Ann-marie,Female,2021-02-07,58,true
+Washington Zoo,Herpestes javanicus,"Mongoose, javan gold-spotted",Griffie,Male,2024-02-29,21,true
+Washington Zoo,Boa caninus,Emerald green tree boa,Else,Female,2023-10-04,55,false
+Vancouver Zoo,Ateles paniscus,"Monkey, black spider",Pattie,Male,2023-09-20,49,true
+Washington Zoo,Estrilda erythronotos,Black-cheeked waxbill,Linea,Female,2023-07-29,19,true
+Toronto Zoo,Cochlearius cochlearius,Boat-billed heron,Latrena,Female,2022-03-03,55,true
+Edmonton Zoo,Speotyte cuniculata,"Owl, burrowing",Bradney,Male,2022-03-15,38,false
+Toronto Zoo,Alligator mississippiensis,"Alligator, mississippi",Sunshine,Female,2021-08-01,25,false
+Washington Zoo,Laniaurius atrococcineus,Crimson-breasted shrike,Weylin,Male,2023-09-01,66,true
+Vancouver Zoo,Ara ararauna,"Macaw, blue and yellow",Buddy,Male,2021-01-25,44,true
+Edmonton Zoo,Hippotragus equinus,"Antelope, roan",Carolina,Female,2023-02-02,77,false
+Vancouver Zoo,Uraeginthus granatina,"Waxbill, violet-eared",Patton,Male,2020-12-04,29,false
+Vancouver Zoo,Marmota caligata,Hoary marmot,Puff,Male,2024-03-06,42,true
+Toronto Zoo,Diceros bicornis,"Rhinoceros, black",Slade,Male,2023-05-18,58,true
+Edmonton Zoo,Uraeginthus angolensis,Blue waxbill,Noelle,Female,2023-10-01,63,true
+Washington Zoo,Lepus townsendii,"Jackrabbit, white-tailed",Ted,Male,2022-05-26,72,false
+Edmonton Zoo,Cracticus nigroagularis,"Bird, pied butcher",Milli,Female,2022-12-07,44,false
+Edmonton Zoo,Cacatua tenuirostris,Long-billed cockatoo,Mignon,Female,2021-03-21,36,true
+Washington Zoo,Halcyon smyrnesis,White-throated kingfisher,Kali,Female,2023-12-15,72,false
+Toronto Zoo,Loris tardigratus,Slender loris,Gabby,Male,2023-10-21,38,true
+Washington Zoo,Castor canadensis,"Beaver, north american",Laird,Male,2022-01-26,32,true
+Toronto Zoo,Dicrostonyx groenlandicus,Collared lemming,Hartwell,Male,2022-03-16,23,false
+Washington Zoo,Hyaena brunnea,"Hyena, brown",Billie,Female,2023-08-11,49,false
+Vancouver Zoo,Haliaetus leucogaster,"Eagle, white-bellied sea",Lek,Male,2022-06-19,23,false
+Washington Zoo,Raphicerus campestris,Steenbuck,Jessee,Male,2022-10-27,59,true
+Edmonton Zoo,Falco mexicanus,"Falcon, prairie",Waylan,Male,2021-03-08,56,true
+Washington Zoo,Larus dominicanus,"Gull, southern black-backed",Gayla,Female,2023-03-17,79,true
+Washington Zoo,Carduelis pinus,Pine siskin,Chet,Male,2023-11-10,27,true
+Toronto Zoo,Picoides pubescens,"Woodpecker, downy",Talbot,Male,2024-03-16,25,true
+Edmonton Zoo,Plocepasser mahali,White-browed sparrow weaver,Denice,Female,2021-08-03,46,true
+Vancouver Zoo,Propithecus verreauxi,Verreaux's sifaka,Cordie,Female,2021-05-09,57,false
+Toronto Zoo,Macropus eugenii,Dama wallaby,Anthea,Female,2023-08-12,65,false
+Vancouver Zoo,Plectopterus gambensis,Spur-winged goose,Allin,Male,2021-09-08,38,false
+Washington Zoo,Ovis ammon,Red sheep,Ulick,Male,2022-06-13,63,true
+Washington Zoo,Terrapene carolina,"Turtle, eastern box",Auberon,Male,2021-02-24,68,false
+Washington Zoo,Mephitis mephitis,"Skunk, striped",Barbe,Female,2022-07-08,77,true
+Washington Zoo,Pteronura brasiliensis,Brazilian otter,Kirbee,Female,2024-03-19,76,false
+Toronto Zoo,Rana sp.,Frog (unidentified),Hewet,Male,2024-03-22,19,false
+Vancouver Zoo,Oxybelis fulgidus,"Snake, green vine",Zuzana,Female,2022-08-12,65,true
+Edmonton Zoo,Alces alces,Moose,Theresita,Female,2022-05-23,28,true
+Washington Zoo,Acrantophis madagascariensis,"Constrictor, eastern boa",Joannes,Female,2022-11-06,58,false
+Vancouver Zoo,Tetracerus quadricornis,"Antelope, four-horned",Michelle,Female,2022-01-30,50,false
+Vancouver Zoo,Meleagris gallopavo,"Turkey, wild",Maurizia,Female,2023-08-14,78,false
+Edmonton Zoo,Spilogale gracilis,"Skunk, western spotted",Doyle,Male,2022-06-23,20,true
+Vancouver Zoo,Ardea golieth,Goliath heron,Arvy,Male,2021-07-20,65,true
+Washington Zoo,Felis concolor,Cougar,Korrie,Female,2023-03-19,22,true
+Washington Zoo,Terrapene carolina,Eastern box turtle,Elnar,Male,2021-01-20,66,false
+Washington Zoo,Dasyprocta leporina,Agouti,Kinsley,Male,2021-05-10,44,true
+Toronto Zoo,Sciurus vulgaris,Eurasian red squirrel,Stephani,Female,2022-04-19,40,true
+Washington Zoo,Oreamnos americanus,Mountain goat,Biron,Male,2020-12-24,21,true
+Toronto Zoo,Petaurus breviceps,Sugar glider,Hill,Male,2022-07-31,61,true
+Washington Zoo,Nucifraga columbiana,Clark's nutcracker,Brnaby,Male,2021-11-20,58,true
+Edmonton Zoo,Pelecans onocratalus,"Pelican, eastern white",Reynard,Male,2022-03-21,53,false
+Toronto Zoo,Eumetopias jubatus,"Lion, steller sea",Chadd,Male,2023-05-21,18,false
+Washington Zoo,Oreotragus oreotragus,Klipspringer,Adrian,Female,2021-03-07,44,true
+Toronto Zoo,Varanus sp.,Monitor lizard (unidentified),Sherlock,Male,2022-06-01,35,true
+Washington Zoo,Theropithecus gelada,Bleeding heart monkey,Cobbie,Male,2022-12-29,29,true
+Toronto Zoo,Propithecus verreauxi,Verreaux's sifaka,Waylen,Male,2023-09-21,59,true
+Edmonton Zoo,Morelia spilotes variegata,"Python, carpet",Kat,Female,2023-02-02,75,true
+Toronto Zoo,Rangifer tarandus,Caribou,Emlen,Male,2023-10-19,59,false
+Vancouver Zoo,Melursus ursinus,Sloth bear,Gaspar,Male,2022-01-19,75,true
+Vancouver Zoo,Nucifraga columbiana,"Nutcracker, clark's",Arleyne,Female,2021-05-01,51,true
+Edmonton Zoo,Phaethon aethereus,"Bird, red-billed tropic",Gerick,Male,2022-11-07,18,false
+Edmonton Zoo,Cacatua tenuirostris,Long-billed corella,Yvonne,Female,2022-08-11,23,false
+Edmonton Zoo,Nyctereutes procyonoides,"Dog, raccoon",Burton,Male,2023-04-02,48,true
+Toronto Zoo,unavailable,African snake (unidentified),Mae,Female,2023-04-11,76,true
+Vancouver Zoo,Sciurus niger,Eastern fox squirrel,Jaime,Female,2022-01-27,54,true
+Vancouver Zoo,Tadorna tadorna,"Shelduck, common",Aindrea,Female,2023-11-25,50,true
+Vancouver Zoo,Agelaius phoeniceus,"Blackbird, red-winged",Claribel,Female,2022-11-07,28,true
+Washington Zoo,Paroaria gularis,"Cardinal, red-capped",Mair,Female,2021-10-25,36,false
+Vancouver Zoo,Aonyx capensis,Cape clawless otter,Ingrim,Male,2023-03-30,50,false
+Washington Zoo,Odocoilenaus virginianus,White-tailed deer,Elvin,Male,2022-03-30,49,true
+Edmonton Zoo,Phoenicopterus chilensis,Chilean flamingo,Ashien,Female,2023-08-22,53,true
+Vancouver Zoo,Antechinus flavipes,"Antechinus, brown",Wylie,Male,2022-02-05,27,true
+Washington Zoo,Creagrus furcatus,Swallow-tail gull,Robinet,Female,2022-12-12,46,true
+Toronto Zoo,Sciurus vulgaris,Eurasian red squirrel,Alisun,Female,2022-05-28,19,false
+Toronto Zoo,Camelus dromedarius,"Camel, dromedary",Linnie,Female,2021-11-08,53,true
+Vancouver Zoo,Irania gutteralis,"Robin, white-throated",Knox,Male,2022-09-11,42,true
+Edmonton Zoo,Marmota monax,Groundhog,Aloisia,Female,2022-06-08,60,true
+Vancouver Zoo,Petaurus breviceps,Sugar glider,Christabel,Female,2024-01-29,57,true
+Washington Zoo,Ammospermophilus nelsoni,Nelson ground squirrel,Wilhelmina,Female,2022-05-09,60,true
+Vancouver Zoo,Canis latrans,Coyote,Raymond,Male,2022-12-26,67,true
+Toronto Zoo,Phalacrocorax niger,Little cormorant,Emelita,Female,2021-02-28,23,false
+Edmonton Zoo,Porphyrio porphyrio,"Moorhen, purple",Sheryl,Female,2021-02-24,49,false
+Edmonton Zoo,Bucephala clangula,"Goldeneye, common",Brendan,Male,2021-05-15,68,false
+Washington Zoo,Cervus elaphus,"Deer, red",Nancey,Female,2024-04-17,50,true
+Washington Zoo,Odocoilenaus virginianus,White-tailed deer,Myrvyn,Male,2021-05-08,31,true
+Edmonton Zoo,Gerbillus sp.,Gerbil (unidentified),Madelaine,Female,2024-03-06,58,true
+Washington Zoo,Erethizon dorsatum,"Porcupine, north american",Opal,Female,2022-01-18,76,false
+Washington Zoo,Phalacrocorax albiventer,"Cormorant, king",Cloe,Female,2023-05-26,73,true
+Washington Zoo,Tyto novaehollandiae,"Owl, australian masked",Henrik,Male,2023-01-12,80,false
+Washington Zoo,Hippotragus equinus,"Antelope, roan",Kimberly,Female,2023-06-15,70,false
+Edmonton Zoo,Oryx gazella,"Oryx, beisa",Domenic,Male,2021-02-26,43,false
+Washington Zoo,Struthio camelus,Ostrich,Vally,Female,2024-02-08,59,true
+Edmonton Zoo,Camelus dromedarius,"Camel, dromedary",Taffy,Female,2021-01-29,36,true
+Washington Zoo,Anas bahamensis,"Pintail, white-cheeked",Elisabet,Female,2021-03-16,23,true
+Vancouver Zoo,Geococcyx californianus,"Roadrunner, greater",Ainslee,Female,2022-05-08,38,true
+Edmonton Zoo,Papio cynocephalus,"Baboon, yellow",Broddie,Male,2023-06-13,56,true
+Washington Zoo,Dasypus novemcinctus,Nine-banded armadillo,Rubin,Male,2022-10-30,68,false
+Toronto Zoo,Bassariscus astutus,Civet cat,Courtenay,Female,2021-04-16,69,false
+Vancouver Zoo,Nectarinia chalybea,Lesser double-collared sunbird,Allis,Female,2022-05-02,45,true
+Toronto Zoo,Larus fuliginosus,"Gull, lava",Ivie,Female,2022-07-27,36,true
+Vancouver Zoo,Psophia viridis,Green-winged trumpeter,Katinka,Female,2023-01-13,39,true
+Toronto Zoo,Cervus duvauceli,"Deer, swamp",Maje,Male,2022-08-04,79,false
+Washington Zoo,Sciurus vulgaris,Eurasian red squirrel,Blaire,Female,2021-02-17,79,false
+Toronto Zoo,Dusicyon thous,"Zorro, common",Aveline,Female,2023-04-01,70,true
+Vancouver Zoo,Anathana ellioti,Mandras tree shrew,Benjamin,Male,2023-04-01,53,false
+Washington Zoo,Pseudoleistes virescens,"Marshbird, brown and yellow",Ty,Male,2023-03-22,75,false
+Toronto Zoo,Chauna torquata,"Screamer, crested",Josias,Male,2021-12-13,39,true
+Edmonton Zoo,Paraxerus cepapi,Smith's bush squirrel,Bartlet,Male,2022-04-24,25,false
+Washington Zoo,Uraeginthus granatina,"Grenadier, common",Gordy,Male,2022-11-01,18,true
+Washington Zoo,Gopherus agassizii,Desert tortoise,Tommie,Male,2022-06-07,32,false
+Washington Zoo,Odocoilenaus virginianus,White-tailed deer,Loutitia,Female,2024-04-18,56,true
+Edmonton Zoo,Hymenolaimus malacorhynchus,"Duck, blue",Berky,Male,2024-03-01,60,false
+Toronto Zoo,Ara chloroptera,"Macaw, red and blue",Hailey,Male,2024-04-16,52,true
+Vancouver Zoo,Ourebia ourebi,Oribi,Giacomo,Male,2022-12-31,74,false
+Vancouver Zoo,Meleagris gallopavo,"Turkey, wild",Karel,Female,2022-05-28,49,true
+Vancouver Zoo,Crocodylus niloticus,"Crocodile, nile",Shalom,Male,2024-04-17,43,true
+Vancouver Zoo,Manouria emys,Burmese brown mountain tortoise,See,Male,2021-09-06,25,false
+Washington Zoo,Larus novaehollandiae,"Gull, silver",Randolph,Male,2023-03-06,43,true
+Washington Zoo,Acridotheres tristis,"Mynah, common",Donnajean,Female,2021-05-27,46,false
+Vancouver Zoo,Morelia spilotes variegata,"Snake, carpet",Magdalena,Female,2021-10-01,49,true
+Washington Zoo,Macaca fuscata,"Macaque, japanese",Rania,Female,2021-08-04,77,false
+Vancouver Zoo,Kobus vardonii vardoni,Puku,Arther,Male,2024-01-26,41,false
+Toronto Zoo,Phylurus milli,Barking gecko,Berti,Male,2022-04-29,27,false
+Edmonton Zoo,Gymnorhina tibicen,"Magpie, australian",Marlie,Female,2023-06-16,39,true
+Vancouver Zoo,Ciconia ciconia,European stork,Tudor,Male,2021-09-08,68,false
+Edmonton Zoo,Geochelone elephantopus,Galapagos tortoise,Forster,Male,2022-10-11,32,false
+Edmonton Zoo,Zosterops pallidus,Cape white-eye,Rollie,Male,2023-10-02,77,false
+Toronto Zoo,Bison bison,"Bison, american",Marshall,Male,2021-09-06,28,false
+Edmonton Zoo,Lamprotornis nitens,"Starling, red-shouldered glossy",Fay,Female,2023-07-09,79,false
+Vancouver Zoo,Megaderma spasma,Asian false vampire bat,Aleen,Female,2023-11-27,59,true
+Washington Zoo,Uraeginthus granatina,"Grenadier, common",Anestassia,Female,2021-09-02,66,true
+Vancouver Zoo,Chloephaga melanoptera,"Goose, andean",Bette-ann,Female,2020-12-06,58,true
+Washington Zoo,Climacteris melanura,"Creeper, black-tailed tree",Corby,Male,2023-12-14,58,true
+Toronto Zoo,Spermophilus lateralis,Golden-mantled ground squirrel,Dasie,Female,2021-01-05,50,true
+Washington Zoo,Geochelone elephantopus,Galapagos tortoise,Josh,Male,2022-10-25,41,true
+Vancouver Zoo,Eumetopias jubatus,"Lion, steller's sea",Yehudi,Male,2024-02-09,60,false
+Vancouver Zoo,Acridotheres tristis,Indian mynah,Alain,Male,2022-04-23,48,true
+Toronto Zoo,Vulpes vulpes,Asian red fox,Derwin,Male,2021-02-17,27,true
+Washington Zoo,Chauna torquata,Southern screamer,Torin,Male,2023-01-03,76,true
+Washington Zoo,Felis chaus,"Cat, jungle",Mufinella,Female,2022-06-23,55,false
+Toronto Zoo,Columba livia,Rock dove,Son,Male,2023-12-31,47,true
+Washington Zoo,Vulpes chama,Cape fox,Audre,Female,2022-03-05,44,true
+Washington Zoo,Megaderma spasma,Asian false vampire bat,Rafferty,Male,2022-10-10,68,true
+Washington Zoo,Varanus sp.,"Lizard, goanna",Tommy,Female,2021-11-14,70,false
+Vancouver Zoo,Calyptorhynchus magnificus,"Cockatoo, red-tailed",Edee,Female,2021-11-01,41,true
+Toronto Zoo,unavailable,Swallow (unidentified),Caldwell,Male,2020-12-02,39,true
+Vancouver Zoo,Sula nebouxii,"Booby, blue-footed",Maud,Female,2021-11-24,77,true
+Edmonton Zoo,Milvago chimachima,"Caracara, yellow-headed",Glori,Female,2022-08-07,74,false
+Toronto Zoo,Rhea americana,Greater rhea,Byrom,Male,2024-03-30,35,true
+Toronto Zoo,Catharacta skua,"Skua, great",Mohandis,Male,2022-07-09,59,true
+Edmonton Zoo,Macropus robustus,Euro wallaby,Enos,Male,2022-11-16,66,true
+Vancouver Zoo,Agama sp.,Agama lizard (unidentified),Artie,Male,2023-04-02,25,false
+Vancouver Zoo,Francolinus coqui,Coqui francolin,Fifi,Female,2023-02-20,58,true
+Vancouver Zoo,Pseudocheirus peregrinus,Ring-tailed possum,Carmelina,Female,2023-10-17,34,true
+Edmonton Zoo,Herpestes javanicus,Javan gold-spotted mongoose,Hersh,Male,2023-01-08,35,false
+Toronto Zoo,Vanellus chilensis,"Lapwing, southern",Vivien,Female,2023-09-26,42,false
+Washington Zoo,Bubulcus ibis,"Egret, cattle",Nona,Female,2021-12-06,74,true
+Toronto Zoo,Platalea leucordia,European spoonbill,Candy,Female,2021-11-20,71,false
+Edmonton Zoo,Ctenophorus ornatus,"Dragon, netted rock",Nolana,Female,2022-05-13,34,false
+Washington Zoo,Diceros bicornis,Black rhinoceros,Vivianne,Female,2022-05-28,42,false
+Vancouver Zoo,Ictalurus furcatus,"Catfish, blue",Web,Male,2021-10-25,28,true
+Vancouver Zoo,Felis concolor,"Lion, mountain",Roxi,Female,2023-09-14,55,false
+Edmonton Zoo,Vulpes chama,"Fox, cape",Norma,Female,2022-01-10,65,true
+Toronto Zoo,Bison bison,"Bison, american",Hana,Female,2023-09-22,40,true
+Vancouver Zoo,Aquila chrysaetos,"Eagle, golden",Maisie,Female,2022-09-01,80,true
+Vancouver Zoo,Antidorcas marsupialis,Springbok,Jimmy,Male,2021-04-10,40,true
+Washington Zoo,Creagrus furcatus,Swallow-tail gull,Mara,Female,2021-02-23,24,true
+Vancouver Zoo,Vanellus chilensis,"Lapwing, southern",Ange,Male,2022-10-12,61,false
+Washington Zoo,Psophia viridis,Green-winged trumpeter,Franny,Male,2023-11-19,40,false
+Vancouver Zoo,Heloderma horridum,Mexican beaded lizard,Richy,Male,2022-03-28,40,false
+Edmonton Zoo,Sarcorhamphus papa,"Vulture, king",Skippy,Male,2021-11-04,37,false
+Toronto Zoo,Aonyx capensis,Cape clawless otter,Charin,Female,2022-10-26,22,true
+Washington Zoo,Laniarius ferrugineus,"Boubou, southern",Dion,Male,2022-08-13,30,true
+Toronto Zoo,Ephippiorhynchus mycteria,Jabiru stork,Forbes,Male,2021-07-27,20,false
+Vancouver Zoo,Lepilemur rufescens,"Lemur, sportive",Rochette,Female,2022-05-10,35,false
+Edmonton Zoo,Platalea leucordia,White spoonbill,Oran,Male,2022-01-07,46,true
+Edmonton Zoo,Geochelone radiata,"Tortoise, radiated",Britteny,Female,2022-05-27,72,true
+Vancouver Zoo,Dasypus novemcinctus,Common long-nosed armadillo,Eugenia,Female,2021-08-22,55,false
+Vancouver Zoo,Bubulcus ibis,"Egret, cattle",Burtie,Male,2021-01-25,61,true
+Vancouver Zoo,Tayassu tajacu,Collared peccary,Benedick,Male,2023-06-07,43,true
+Vancouver Zoo,Globicephala melas,"Whale, long-finned pilot",Griselda,Female,2022-06-10,20,false
+Washington Zoo,Phalacrocorax carbo,"Cormorant, great",Chantal,Female,2021-11-22,49,true
+Vancouver Zoo,Neotis denhami,Denham's bustard,Parker,Male,2021-05-28,32,true
+Edmonton Zoo,Alcelaphus buselaphus cokii,Kongoni,Veronica,Female,2021-08-12,20,true
+Vancouver Zoo,Equus hemionus,Onager,Sherry,Female,2021-01-21,78,true
+Edmonton Zoo,Capra ibex,Ibex,Trev,Male,2021-10-27,31,true
+Toronto Zoo,Cathartes aura,Turkey vulture,Omero,Male,2021-12-07,30,false
+Edmonton Zoo,Sarkidornis melanotos,"Duck, comb",Eleanor,Female,2021-01-23,65,false
+Vancouver Zoo,Lutra canadensis,North American river otter,Dulcia,Female,2022-11-05,77,false
+Vancouver Zoo,Phalacrocorax niger,"Cormorant, javanese",Dacy,Female,2022-01-19,61,true
+Toronto Zoo,Ratufa indica,Indian giant squirrel,Welby,Male,2021-03-19,69,true
+Washington Zoo,Ctenophorus ornatus,Ornate rock dragon,Lenard,Male,2021-10-14,20,false
+Toronto Zoo,Cynictis penicillata,"Meerkat, red",Benn,Male,2023-02-24,35,true
+Toronto Zoo,Psophia viridis,"Trumpeter, dark-winged",Drake,Male,2023-07-23,76,false
+Toronto Zoo,Propithecus verreauxi,Verreaux's sifaka,Janenna,Female,2021-12-10,68,false
+Washington Zoo,Corallus hortulanus cooki,Cook's tree boa,Kerr,Male,2022-04-08,50,false
+Toronto Zoo,Libellula quadrimaculata,"Skimmer, four-spotted",Tiffie,Female,2023-05-11,76,true
+Vancouver Zoo,Canis dingo,Dingo,Julieta,Female,2020-12-15,39,false
+Vancouver Zoo,Uraeginthus granatina,Common grenadier,Thayne,Male,2024-04-03,38,false
+Washington Zoo,Mazama gouazoubira,"Deer, savannah",Arni,Male,2021-02-01,49,true
+Vancouver Zoo,Macropus rufus,"Kangaroo, red",Ewen,Male,2022-10-27,75,false
+Edmonton Zoo,Lamprotornis nitens,"Starling, red-shouldered glossy",Ronda,Female,2021-12-04,46,true
+Washington Zoo,Mycteria leucocephala,"Stork, painted",Davine,Female,2022-09-18,26,true
+Toronto Zoo,Lasiodora parahybana,Salmon pink bird eater tarantula,Scarlet,Female,2021-07-25,38,false
+Washington Zoo,Semnopithecus entellus,Common langur,Linnet,Female,2022-09-06,80,true
+Vancouver Zoo,Naja nivea,Cape cobra,Perkin,Male,2023-03-08,71,false
+Toronto Zoo,Antechinus flavipes,Brown antechinus,Grenville,Male,2022-03-18,38,true
+Vancouver Zoo,Eumetopias jubatus,"Lion, steller sea",Ruttger,Male,2022-12-21,44,false
+Toronto Zoo,Cereopsis novaehollandiae,"Goose, cape barren",Christie,Female,2021-06-04,28,true
+Edmonton Zoo,Plocepasser mahali,White-browed sparrow weaver,Gabbie,Male,2021-09-26,67,false
+Washington Zoo,Acrobates pygmaeus,Feathertail glider,Elwood,Male,2021-12-07,57,false
+Vancouver Zoo,Canis mesomelas,"Jackal, silver-backed",Em,Female,2023-11-02,23,true
+Edmonton Zoo,Recurvirostra avosetta,Pied avocet,Mozes,Male,2021-08-03,65,false
+Vancouver Zoo,Rhabdomys pumilio,Four-striped grass mouse,Rogerio,Male,2023-11-24,55,false
+Edmonton Zoo,Sciurus niger,"Squirrel, eastern fox",Kristoffer,Male,2024-04-15,22,true
+Toronto Zoo,unavailable,Adouri (unidentified),Perle,Female,2022-08-14,65,false
+Vancouver Zoo,Graspus graspus,"Crab, sally lightfoot",Curtice,Male,2021-07-18,71,true
+Toronto Zoo,Fulica cristata,"Coot, red-knobbed",Joyous,Female,2023-12-22,34,true
+Vancouver Zoo,Hymenolaimus malacorhynchus,"Duck, mountain",Silvio,Male,2022-10-22,32,false
+Toronto Zoo,Fregata magnificans,"Bird, magnificent frigate",Bary,Male,2023-05-13,51,false
+Toronto Zoo,unavailable,Gecko (unidentified),Irvin,Male,2023-08-17,26,true
+Vancouver Zoo,Crotalus cerastes,"Rattlesnake, horned",Ichabod,Male,2021-10-10,41,true
+Toronto Zoo,Psophia viridis,"Trumpeter, dark-winged",Dale,Male,2021-10-11,50,true
+Vancouver Zoo,Eolophus roseicapillus,"Cockatoo, roseate",Nataniel,Male,2023-10-22,22,false
+Edmonton Zoo,Bubo virginianus,Great horned owl,Coraline,Female,2024-03-01,40,false
+Washington Zoo,Acanthaster planci,"Starfish, crown of thorns",Claresta,Female,2022-08-25,74,false
+Edmonton Zoo,Odocoileus hemionus,Black-tailed deer,Pippa,Female,2022-11-26,18,false
+Vancouver Zoo,Ara chloroptera,Green-winged macaw,Jennee,Female,2021-11-01,73,true
+Toronto Zoo,Theropithecus gelada,Bleeding heart monkey,Sharyl,Female,2023-05-14,51,true
+Washington Zoo,Oryx gazella,Beisa oryx,Bendicty,Male,2022-08-19,62,true
+Toronto Zoo,unavailable,Civet (unidentified),Dal,Male,2023-05-13,58,false
+Vancouver Zoo,Plegadis falcinellus,"Ibis, glossy",Glenna,Female,2023-07-01,55,false
+Washington Zoo,Amphibolurus barbatus,Western bearded dragon,Elton,Male,2021-10-05,20,true
+Vancouver Zoo,Cacatua tenuirostris,Long-billed cockatoo,Roslyn,Female,2023-10-03,62,true
+Vancouver Zoo,Iguana iguana,"Iguana, common green",Emmet,Male,2022-05-06,27,false
+Vancouver Zoo,Eolophus roseicapillus,"Cockatoo, red-breasted",Rorie,Female,2024-01-20,49,false
+Washington Zoo,Tyto novaehollandiae,Australian masked owl,Anson,Male,2023-03-09,29,false
+Edmonton Zoo,Lama pacos,Alpaca,Gilda,Female,2021-03-04,72,false
+Edmonton Zoo,Tockus flavirostris,Yellow-billed hornbill,Wilden,Male,2022-08-19,70,true
+Vancouver Zoo,unavailable,Savannah deer (unidentified),Bobby,Female,2022-07-30,50,false
+Toronto Zoo,Limosa haemastica,Hudsonian godwit,Meg,Female,2023-06-28,69,true
+Toronto Zoo,Colaptes campestroides,"Flicker, campo",Dot,Female,2022-05-29,23,false
+Washington Zoo,Tamandua tetradactyla,"Tamandua, southern",Indira,Female,2022-01-20,39,false
+Toronto Zoo,Panthera leo,"Lion, african",Zelig,Male,2021-10-14,36,true
+Edmonton Zoo,Paroaria gularis,Red-capped cardinal,Dredi,Female,2023-12-04,73,true
+Washington Zoo,Eubalaena australis,Baleen whale,Donnie,Male,2024-03-09,38,true
+Edmonton Zoo,Vulpes vulpes,"Fox, asian red",Grier,Female,2022-03-03,74,false
+Vancouver Zoo,Dicrurus adsimilis,Fork-tailed drongo,Wini,Female,2022-04-15,53,true
+Edmonton Zoo,Felis pardalis,Ocelot,Corrina,Female,2021-07-04,44,false
+Vancouver Zoo,Uraeginthus angolensis,Blue waxbill,Willy,Male,2022-04-09,57,true
+Toronto Zoo,Canis aureus,Asiatic jackal,Joye,Female,2023-10-14,62,true
+Vancouver Zoo,Equus burchelli,Common zebra,Florida,Female,2024-02-06,76,true
+Toronto Zoo,Bucephala clangula,"Goldeneye, barrows",Robby,Male,2023-06-13,55,true
+Vancouver Zoo,Bassariscus astutus,Ringtail,Janeen,Female,2021-04-15,21,false
+Toronto Zoo,Meles meles,"Badger, european",Panchito,Male,2024-01-08,72,false
+Toronto Zoo,Corythornis cristata,Malachite kingfisher,Carolan,Female,2021-12-23,59,false
+Vancouver Zoo,Redunca redunca,"Reedbuck, bohor",Viole,Female,2022-04-13,28,false
+Vancouver Zoo,Laniaurius atrococcineus,"Shrike, crimson-breasted",Carolus,Male,2021-04-06,59,false
+Vancouver Zoo,Cynictis penicillata,Red meerkat,Baxie,Male,2021-06-25,67,false
+Toronto Zoo,Limosa haemastica,"Godwit, hudsonian",Chane,Male,2024-01-06,49,true
+Vancouver Zoo,Dasypus novemcinctus,"Armadillo, common long-nosed",Teresita,Female,2022-07-23,71,false
+Edmonton Zoo,Lama guanicoe,Guanaco,Randene,Female,2022-01-03,40,false
+Washington Zoo,Carduelis uropygialis,"Siskin, yellow-rumped",Ricky,Female,2023-05-07,48,false
+Vancouver Zoo,Cracticus nigroagularis,"Bird, pied butcher",Olvan,Male,2022-04-27,63,false
+Vancouver Zoo,Philetairus socius,"Weaver, sociable",Ulrike,Female,2021-05-15,37,false
+Edmonton Zoo,Dicrostonyx groenlandicus,Arctic lemming,Thurstan,Male,2021-06-27,20,true
+Vancouver Zoo,Ciconia episcopus,"Stork, white-necked",Scotty,Male,2023-03-23,19,true
+Washington Zoo,Acridotheres tristis,"Mynah, indian",Melanie,Female,2022-01-08,28,true
+Edmonton Zoo,Gabianus pacificus,"Gull, pacific",Lisetta,Female,2022-11-03,38,false
+Edmonton Zoo,Ninox superciliaris,"Owl, white-browed",Guido,Male,2022-11-27,20,false
+Vancouver Zoo,Callipepla gambelii,"Quail, gambel's",Addia,Female,2021-08-26,56,true
+Toronto Zoo,Iguana iguana,Common green iguana,Hilario,Male,2023-01-03,37,true
+Washington Zoo,Megaderma spasma,"Bat, asian false vampire",Nicole,Female,2024-01-07,61,false
+Edmonton Zoo,Chauna torquata,Crested screamer,Storm,Female,2023-12-04,70,false
+Washington Zoo,Castor fiber,"Beaver, european",Catarina,Female,2021-04-14,75,true
+Edmonton Zoo,Bucephala clangula,"Goldeneye, barrows",Kandace,Female,2022-06-16,19,false
+Edmonton Zoo,Acrantophis madagascariensis,Malagasy ground boa,Nonie,Female,2022-11-24,55,true
+Washington Zoo,Thamnolaea cinnmomeiventris,Mocking cliffchat,Ahmed,Male,2022-03-22,21,false
+Washington Zoo,Lamprotornis chalybaeus,Greater blue-eared starling,Candis,Female,2021-06-03,30,true
+Vancouver Zoo,Oryx gazella callotis,Fringe-eared oryx,Andrej,Male,2022-02-26,20,true
+Toronto Zoo,Camelus dromedarius,"Camel, dromedary",Beniamino,Male,2021-03-12,26,true
+Washington Zoo,Centrocercus urophasianus,Sage hen,Yolande,Female,2023-11-11,46,false
+Toronto Zoo,Paroaria gularis,Black-throated cardinal,Mateo,Male,2022-08-07,48,false
+Vancouver Zoo,Passer domesticus,House sparrow,Kalli,Female,2021-11-22,34,true
+Washington Zoo,Thamnolaea cinnmomeiventris,Mocking cliffchat,Skip,Male,2021-12-10,48,true
+Edmonton Zoo,Salvadora hexalepis,Western patch-nosed snake,Daile,Female,2022-02-22,73,false
+Edmonton Zoo,Crocuta crocuta,Spotted hyena,Inga,Female,2023-09-02,32,true
+Toronto Zoo,Cebus apella,"Capuchin, black-capped",Moreen,Female,2022-08-09,27,true
+Edmonton Zoo,Francolinus leucoscepus,Yellow-necked spurfowl,Kikelia,Female,2023-12-20,76,true
+Vancouver Zoo,Nesomimus trifasciatus,Galapagos mockingbird,Clarie,Female,2021-07-17,68,false
+Washington Zoo,Crotalus cerastes,Horned rattlesnake,Eric,Male,2021-02-26,50,false
+Washington Zoo,Equus burchelli,"Zebra, plains",Chaddie,Male,2021-12-20,53,true
+Vancouver Zoo,Ramphastos tucanus,"Toucan, white-throated",Jillian,Female,2021-08-05,56,false
+Washington Zoo,Lepilemur rufescens,"Lemur, sportive",Sybil,Female,2020-12-14,21,false
+Washington Zoo,Pelecanus occidentalis,Brown pelican,Isabeau,Female,2024-01-11,27,false
+Toronto Zoo,unavailable,Butterfly (unidentified),Rodrigo,Male,2024-02-17,31,true
+Toronto Zoo,Manouria emys,Burmese brown mountain tortoise,Oberon,Male,2020-12-13,20,false
+Vancouver Zoo,Acrobates pygmaeus,"Glider, feathertail",Nathaniel,Male,2022-02-07,53,false
+Washington Zoo,Anas punctata,"Teal, hottentot",Annabel,Female,2022-03-12,31,true
+Washington Zoo,Mazama gouazoubira,"Brocket, brown",Minnnie,Female,2021-04-19,54,true
+Toronto Zoo,Felis wiedi or Leopardus weidi,Margay,Addi,Female,2021-07-14,21,false
+Edmonton Zoo,Chlidonias leucopterus,White-winged black tern,Mollee,Female,2021-04-02,45,false
+Toronto Zoo,Pedetes capensis,Springhare,Libby,Female,2023-02-05,49,false
+Vancouver Zoo,Panthera leo,"Lion, african",Evania,Female,2023-12-14,26,false
+Washington Zoo,Paraxerus cepapi,"Squirrel, african bush",Zelig,Male,2023-08-21,78,true
+Edmonton Zoo,Funambulus pennati,Palm squirrel,Giffie,Male,2021-07-16,40,true
+Vancouver Zoo,Phoca vitulina,Common seal,Parnell,Male,2023-07-30,74,false
+Vancouver Zoo,Varanus sp.,"Legaan, Monitor (unidentified)",Grantley,Male,2023-11-15,77,true
+Toronto Zoo,Raphicerus campestris,Steenbuck,Jaymie,Male,2021-01-15,60,true
+Toronto Zoo,Ammospermophilus nelsoni,Antelope ground squirrel,Lotty,Female,2023-07-10,55,true
+Toronto Zoo,Caiman crocodilus,Spectacled caiman,Billye,Female,2021-12-10,44,true
+Edmonton Zoo,Butorides striatus,Green heron,Kaspar,Male,2022-10-28,55,false
+Washington Zoo,Potamochoerus porcus,Bushpig,Prissie,Female,2021-07-01,28,true
+Edmonton Zoo,Tringa glareola,"Sandpiper, spotted wood",Englebert,Male,2021-11-01,80,false
+Toronto Zoo,Bubalornis niger,"Weaver, red-billed buffalo",Demetri,Male,2024-03-10,29,true
+Washington Zoo,Spizaetus coronatus,"Hawk-eagle, crowned",Coleen,Female,2023-08-23,47,true
+Washington Zoo,Papio ursinus,Chacma baboon,Reggie,Female,2023-10-16,53,false
+Washington Zoo,Sarkidornis melanotos,Comb duck,Genovera,Female,2021-05-19,49,true
+Toronto Zoo,Papio ursinus,Chacma baboon,Chas,Male,2022-05-26,23,true
+Vancouver Zoo,Aonyx capensis,Cape clawless otter,Keenan,Male,2022-02-28,69,false
+Edmonton Zoo,Parus atricapillus,Black-capped chickadee,Sibbie,Female,2021-05-21,37,true
+Washington Zoo,Orcinus orca,Orca,Harald,Male,2023-01-30,45,true
+Washington Zoo,Ciconia ciconia,White stork,Olia,Female,2023-08-29,54,true
+Washington Zoo,Rhea americana,"Rhea, common",Aggi,Female,2023-07-16,53,false
+Vancouver Zoo,unavailable,Cormorant (unidentified),Sula,Female,2021-03-30,22,false
+Edmonton Zoo,Ciconia episcopus,White-necked stork,Kris,Female,2021-10-19,79,false
+Toronto Zoo,Macropus robustus,Common wallaroo,Karil,Female,2021-08-16,80,false
+Vancouver Zoo,Globicephala melas,Long-finned pilot whale,Linoel,Male,2024-01-03,45,false
+Edmonton Zoo,Oxybelis fulgidus,"Snake, green vine",Cortie,Male,2023-08-23,59,false
+Edmonton Zoo,Mazama americana,"Brocket, red",Iain,Male,2022-03-12,62,true
+Vancouver Zoo,Pelecanus conspicillatus,Australian pelican,Fremont,Male,2023-12-23,46,true
+Edmonton Zoo,Bettongia penicillata,Brush-tailed rat kangaroo,Lina,Female,2022-02-26,42,false
+Edmonton Zoo,Egretta thula,"Egret, snowy",Maren,Female,2024-02-15,65,true
+Toronto Zoo,Panthera leo,"Lion, african",Godiva,Female,2021-08-21,60,true
+Toronto Zoo,Paraxerus cepapi,Grey-footed squirrel,Wilburt,Male,2020-12-22,53,true
+Vancouver Zoo,Genetta genetta,Small-spotted genet,Eleanore,Female,2022-01-19,64,false
+Edmonton Zoo,Falco mexicanus,"Falcon, prairie",Corie,Female,2021-05-13,37,true
+Vancouver Zoo,Crotaphytus collaris,"Lizard, collared",Bathsheba,Female,2021-12-07,53,false
+Washington Zoo,Agkistrodon piscivorus,Water moccasin,Monro,Male,2021-07-01,52,false
+Edmonton Zoo,Pytilia melba,"Finch, common melba",Briny,Female,2021-01-07,79,false
+Washington Zoo,Francolinus swainsonii,"Francolin, swainson's",Amity,Female,2022-11-17,59,false
+Washington Zoo,Geochelone elephantopus,Galapagos tortoise,Dido,Female,2023-03-23,54,false
+Washington Zoo,Priodontes maximus,"Armadillo, giant",Alix,Female,2024-02-15,77,true
+Vancouver Zoo,Rhea americana,"Rhea, greater",Rozamond,Female,2023-07-14,68,true
+Edmonton Zoo,Mycteria ibis,"Stork, yellow-billed",Tab,Male,2023-04-20,64,true
+Washington Zoo,Casmerodius albus,Great egret,Bastien,Male,2022-02-05,30,false
+Vancouver Zoo,Castor fiber,European beaver,Denney,Male,2023-10-10,36,true
+Vancouver Zoo,Ovis canadensis,American bighorn sheep,Noelle,Female,2023-10-11,39,false
+Washington Zoo,Branta canadensis,Canada goose,Steward,Male,2023-07-16,42,true
+Washington Zoo,Leprocaulinus vipera,Stick insect,Ragnar,Male,2022-04-01,67,true
+Washington Zoo,Neotoma sp.,Woodrat (unidentified),Omero,Male,2020-12-05,74,false
+Toronto Zoo,Ardea cinerea,"Heron, gray",Denys,Male,2023-06-11,55,true
+Edmonton Zoo,Vulpes chama,Silver-backed fox,Josias,Male,2023-01-08,75,false
+Washington Zoo,Salvadora hexalepis,Western patch-nosed snake,Lemar,Male,2022-01-14,27,true
+Toronto Zoo,Felis rufus,Bobcat,Wilton,Male,2023-08-16,22,false
+Washington Zoo,Coracias caudata,"Roller, lilac-breasted",Flora,Female,2022-06-01,63,true
+Edmonton Zoo,Sciurus niger,Eastern fox squirrel,Erroll,Male,2024-02-26,41,false
+Edmonton Zoo,Cygnus buccinator,Trumpeter swan,Isidore,Male,2022-10-25,65,false
+Vancouver Zoo,Grus canadensis,"Crane, sandhill",Cati,Female,2023-11-13,41,false
+Washington Zoo,unavailable,Butterfly (unidentified),Maryrose,Female,2021-03-22,53,false
+Edmonton Zoo,Alopochen aegyptiacus,Egyptian goose,Lilian,Female,2023-01-19,60,true
+Edmonton Zoo,Ardea golieth,"Heron, goliath",Brittaney,Female,2024-01-25,24,false
+Edmonton Zoo,unavailable,Malay squirrel (unidentified),Denise,Female,2023-12-02,18,false
+Washington Zoo,Pteronura brasiliensis,Brazilian otter,Alfonso,Male,2022-02-28,30,true
+Edmonton Zoo,Agkistrodon piscivorus,Water moccasin,Paulina,Female,2024-03-15,59,false
+Edmonton Zoo,Bubalus arnee,"Buffalo, wild water",Ashley,Male,2024-02-16,23,false
+Washington Zoo,Bison bison,American bison,Angie,Male,2022-09-05,27,true
+Toronto Zoo,Spermophilus lateralis,Golden-mantled ground squirrel,Cordell,Male,2023-10-10,34,true
+Edmonton Zoo,Snycerus caffer,African buffalo,Jodee,Female,2022-10-10,67,false
+Edmonton Zoo,Megaderma spasma,Asian false vampire bat,Carl,Male,2022-11-02,45,false
+Vancouver Zoo,Suricata suricatta,Meerkat,Shayne,Male,2023-08-17,70,false
+Vancouver Zoo,Dasypus septemcincus,Seven-banded armadillo,Ekaterina,Female,2021-09-21,75,true
+Edmonton Zoo,unavailable,Butterfly (unidentified),Luisa,Female,2022-01-06,63,true
+Vancouver Zoo,Nesomimus trifasciatus,Galapagos mockingbird,Rooney,Male,2023-08-11,61,true
+Edmonton Zoo,Tiliqua scincoides,Blue-tongued lizard,Kerrill,Female,2021-12-08,65,true
+Toronto Zoo,Cebus albifrons,White-fronted capuchin,Solly,Male,2022-05-25,28,false
+Toronto Zoo,Snycerus caffer,"Buffalo, african",Jerald,Male,2021-02-14,35,false
+Toronto Zoo,Sagittarius serpentarius,Secretary bird,Alyss,Female,2023-07-23,54,false
+Vancouver Zoo,Gymnorhina tibicen,"Magpie, black-backed",Nert,Female,2022-09-05,56,true
+Edmonton Zoo,Ephippiorhynchus mycteria,Black-necked stork,Florencia,Female,2022-01-27,51,true
+Edmonton Zoo,Ninox superciliaris,Madagascar hawk owl,Leonardo,Male,2023-06-25,67,false
+Vancouver Zoo,Meles meles,European badger,Maudie,Female,2024-02-01,25,false
+Edmonton Zoo,Damaliscus dorcas,Bontebok,Carver,Male,2021-06-15,41,true
+Edmonton Zoo,Anthropoides paradisea,"Crane, blue",Wilhelmine,Female,2021-01-23,74,true
+Washington Zoo,Bubalus arnee,"Buffalo, asian water",Phyllys,Female,2022-04-28,42,true
+Vancouver Zoo,Lasiorhinus latifrons,Southern hairy-nosed wombat,Zacharie,Male,2022-10-16,73,true
+Washington Zoo,Giraffe camelopardalis,Giraffe,Mildrid,Female,2024-02-07,41,true
+Washington Zoo,Castor fiber,European beaver,Elle,Female,2023-03-28,45,true
+Toronto Zoo,Tauraco porphyrelophus,"Turaco, violet-crested",Desmund,Male,2023-10-03,70,false
+Washington Zoo,unavailable,Old world fruit bat (unidentified),Kalie,Female,2023-02-11,36,true
+Edmonton Zoo,Diceros bicornis,"Rhinoceros, black",Sawyere,Male,2022-07-04,68,false
+Edmonton Zoo,Terrapene carolina,"Turtle, eastern box",Eamon,Male,2021-09-08,62,false
+Toronto Zoo,Ara ararauna,Blue and yellow macaw,Dominique,Female,2021-11-28,32,true
+Vancouver Zoo,Macropus agilis,Agile wallaby,Abramo,Male,2021-12-10,55,false
+Washington Zoo,Psittacula krameri,"Parakeet, rose-ringed",Phylis,Female,2021-10-05,23,false
+Vancouver Zoo,Thalasseus maximus,"Tern, royal",Burtie,Male,2023-01-20,33,false
+Washington Zoo,Thylogale stigmatica,"Pademelon, red-legged",Peirce,Male,2023-11-22,56,true
+Toronto Zoo,Uraeginthus bengalus,Red-cheeked cordon bleu,Lilly,Female,2022-01-31,32,false
+Toronto Zoo,Ictonyx striatus,Zorilla,Dolorita,Female,2024-04-05,68,false
+Vancouver Zoo,Dusicyon thous,"Fox, savanna",Ephrem,Male,2023-10-21,78,true
+Washington Zoo,Crotalus adamanteus,Eastern diamondback rattlesnake,Germaine,Female,2023-06-05,67,true
+Washington Zoo,Eolophus roseicapillus,Red-breasted cockatoo,Dwain,Male,2023-08-21,38,false
+Edmonton Zoo,Cercatetus concinnus,"Possum, western pygmy",Sherm,Male,2021-01-16,65,false
+Vancouver Zoo,Ictalurus furcatus,"Catfish, blue",Alayne,Female,2021-02-02,52,false
+Toronto Zoo,Hystrix cristata,Crested porcupine,Jenna,Female,2021-07-27,77,false
+Vancouver Zoo,Rhea americana,"Rhea, gray",Baryram,Male,2022-01-30,73,true
+Toronto Zoo,Plectopterus gambensis,"Goose, spur-winged",Loralie,Female,2023-06-23,26,false
+Washington Zoo,Cereopsis novaehollandiae,"Goose, cape barren",Glori,Female,2022-10-13,63,false
+Toronto Zoo,Lemur fulvus,Brown lemur,Elaine,Female,2021-12-22,76,false
+Toronto Zoo,Papilio canadensis,Canadian tiger swallowtail butterfly,Modesty,Female,2022-08-08,28,false
+Toronto Zoo,Lasiorhinus latifrons,Southern hairy-nosed wombat,Thomas,Male,2023-10-22,29,true
+Edmonton Zoo,Coendou prehensilis,"Porcupine, tree",Nedda,Female,2022-03-07,26,false
+Edmonton Zoo,Taurotagus oryx,Common eland,Tom,Male,2023-08-26,60,false
+Toronto Zoo,Corythornis cristata,Malachite kingfisher,Ted,Female,2021-06-03,66,true
+Edmonton Zoo,Nectarinia chalybea,"Sunbird, lesser double-collared",Aleen,Female,2021-03-10,18,true
+Toronto Zoo,Lycaon pictus,African wild dog,Sue,Female,2021-09-15,38,false
+Toronto Zoo,Larus novaehollandiae,Silver gull,Munroe,Male,2021-01-31,60,false
+Washington Zoo,Choriotis kori,"Bustard, kori",Georgina,Female,2024-03-11,70,true
+Vancouver Zoo,Felis silvestris lybica,"Cat, african wild",Jayne,Female,2023-03-02,68,true
+Edmonton Zoo,Petaurus breviceps,Sugar glider,Kayne,Male,2023-12-03,28,true
+Vancouver Zoo,Paraxerus cepapi,African bush squirrel,Sasha,Male,2021-08-15,39,false
+Vancouver Zoo,Agelaius phoeniceus,Red-winged blackbird,Kurt,Male,2023-06-10,47,true
+Toronto Zoo,Vulpes vulpes,"Fox, asian red",Field,Male,2022-05-19,42,true
+Toronto Zoo,Speothos vanaticus,Bush dog,Diann,Female,2021-02-20,68,true
+Toronto Zoo,Butorides striatus,Green heron,Godwin,Male,2022-11-10,50,true
+Toronto Zoo,Alligator mississippiensis,American alligator,Analise,Female,2022-11-09,32,false
+Edmonton Zoo,Milvus migrans,Black kite,Marco,Male,2022-03-06,39,true
+Toronto Zoo,unavailable,Gecko (unidentified),Margit,Female,2022-06-17,65,true
+Washington Zoo,Dasyurus maculatus,Spotted-tailed quoll,Paul,Male,2023-10-03,65,true
+Toronto Zoo,Seiurus aurocapillus,Ovenbird,Leland,Female,2022-11-05,71,true
+Toronto Zoo,Plectopterus gambensis,"Goose, spur-winged",Terrel,Male,2021-10-07,71,false
+Washington Zoo,Tetracerus quadricornis,Four-horned antelope,Dorry,Female,2022-10-06,54,true
+Toronto Zoo,Kobus defassa,"Waterbuck, common",Annmarie,Female,2020-12-04,23,false
+Vancouver Zoo,Macaca mulatta,Rhesus monkey,Raimund,Male,2022-08-30,72,false
+Washington Zoo,Agelaius phoeniceus,"Blackbird, red-winged",Michelle,Female,2022-10-08,73,false
+Edmonton Zoo,Phaethon aethereus,Red-billed tropic bird,Ryun,Male,2021-09-01,66,false
+Toronto Zoo,Spermophilus lateralis,Golden-mantled ground squirrel,Kaile,Female,2021-06-12,71,true
+Vancouver Zoo,Panthera onca,Jaguar,Donnie,Male,2022-08-19,47,true
+Washington Zoo,Chlamydosaurus kingii,"Lizard, frilled",Edi,Female,2023-04-03,38,true
+Washington Zoo,Semnopithecus entellus,Common langur,Patrizio,Male,2022-05-28,21,false
+Toronto Zoo,Diceros bicornis,Black rhinoceros,Alanah,Female,2021-07-02,69,true
+Vancouver Zoo,Proteles cristatus,Aardwolf,Daniela,Female,2021-01-16,64,false
+Toronto Zoo,Didelphis virginiana,American Virginia opossum,Blinni,Female,2024-03-07,29,false
+Toronto Zoo,Diomedea irrorata,"Albatross, galapagos",Filmer,Male,2023-04-26,25,true
+Washington Zoo,Sciurus vulgaris,Eurasian red squirrel,Sonnie,Female,2023-11-18,27,false
+Toronto Zoo,Psittacula krameri,Rose-ringed parakeet,Portie,Male,2021-09-25,21,true
+Toronto Zoo,Tadorna tadorna,"Shelduck, european",Yvon,Male,2023-02-01,73,false
+Toronto Zoo,Pycnonotus nigricans,Black-fronted bulbul,Ynes,Female,2022-11-12,78,true
+Vancouver Zoo,Arctogalidia trivirgata,Small-toothed palm civet,Alvina,Female,2023-11-29,21,true
+Vancouver Zoo,Gorilla gorilla,Western lowland gorilla,Northrup,Male,2023-04-29,54,true
+Edmonton Zoo,Nesomimus trifasciatus,Galapagos mockingbird,Madge,Female,2022-09-02,55,true
+Toronto Zoo,Loxodonta africana,"Elephant, african",Marlow,Male,2022-09-05,54,true
+Toronto Zoo,Vulpes chama,"Fox, cape",Lanny,Female,2020-12-14,51,false
+Edmonton Zoo,Pseudalopex gymnocercus,"Fox, pampa gray",Niels,Male,2023-03-18,40,true
+Edmonton Zoo,Anas bahamensis,Bahama pintail,Simone,Female,2021-07-21,54,true
+Edmonton Zoo,Canis mesomelas,"Jackal, black-backed",Orland,Male,2023-01-02,58,false
+Vancouver Zoo,Charadrius tricollaris,"Plover, three-banded",Aimee,Female,2022-06-06,80,false
+Vancouver Zoo,Zalophus californicus,"Lion, galapagos sea",Rhona,Female,2023-03-28,20,true
+Edmonton Zoo,Cyrtodactylus louisiadensis,Bent-toed gecko,Vicki,Female,2022-06-08,77,true
+Vancouver Zoo,Eolophus roseicapillus,Red-breasted cockatoo,Gaspar,Male,2022-11-21,63,false
+Vancouver Zoo,Axis axis,Chital,Revkah,Female,2023-07-14,80,false
+Toronto Zoo,Theropithecus gelada,Gelada baboon,Dominique,Male,2022-09-14,43,true
+Edmonton Zoo,Ninox superciliaris,Madagascar hawk owl,Lezley,Male,2024-02-10,59,false
+Toronto Zoo,Potorous tridactylus,Potoroo,Leela,Female,2022-01-14,40,true
+Toronto Zoo,Cacatua tenuirostris,"Cockatoo, long-billed",Griffie,Male,2023-02-16,48,false
+Washington Zoo,Connochaetus taurinus,Brindled gnu,Susette,Female,2024-04-12,39,true
+Edmonton Zoo,Grus rubicundus,Brolga crane,Lionello,Male,2024-02-20,37,true
+Toronto Zoo,Manouria emys,Asian foreset tortoise,Berkeley,Male,2023-10-15,79,true
+Vancouver Zoo,Ramphastos tucanus,"Toucan, red-billed",Rebecca,Female,2021-10-24,31,false
+Vancouver Zoo,Ceryle rudis,"Kingfisher, pied",Mattheus,Male,2022-12-16,44,true
+Toronto Zoo,Gyps bengalensis,White-rumped vulture,Nickolaus,Male,2021-07-30,53,true
+Toronto Zoo,Egretta thula,"Egret, snowy",Erny,Male,2022-05-10,66,true
+Vancouver Zoo,Lorythaixoides concolor,Grey lourie,Arie,Male,2024-01-09,48,false
+Edmonton Zoo,Gazella thompsonii,"Gazelle, thomson's",Gigi,Female,2023-03-11,61,true
+Washington Zoo,Tadorna tadorna,"Shelduck, european",Patrick,Male,2023-11-06,35,true
+Toronto Zoo,Butorides striatus,"Heron, striated",Lucio,Male,2022-04-22,52,true
+Edmonton Zoo,Eolophus roseicapillus,"Cockatoo, red-breasted",Erda,Female,2021-05-23,61,false
+Vancouver Zoo,Sula dactylatra,"Booby, masked",Wolfgang,Male,2021-01-20,59,false
+Washington Zoo,Petaurus breviceps,Sugar glider,Haskel,Male,2020-12-02,27,true
+Edmonton Zoo,Sauromalus obesus,Chuckwalla,Laurie,Male,2021-07-20,40,false
+Vancouver Zoo,Paradoxurus hermaphroditus,Common palm civet,Kelsi,Female,2022-09-02,18,false
+Washington Zoo,Phascogale tapoatafa,"Phascogale, brush-tailed",Micheil,Male,2023-07-29,35,true
+Edmonton Zoo,Canis lupus lycaon,"Wolf, timber",Durand,Male,2023-11-06,28,true
+Washington Zoo,Gymnorhina tibicen,"Magpie, black-backed",Ira,Male,2023-07-25,32,false
+Vancouver Zoo,Naja nivea,"Cobra, cape",Darci,Female,2022-09-17,48,true
+Washington Zoo,Recurvirostra avosetta,Pied avocet,Michaella,Female,2021-06-28,29,false
+Edmonton Zoo,Trichosurus vulpecula,"Possum, golden brush-tailed",Venus,Female,2021-08-25,55,false
+Toronto Zoo,Dicrostonyx groenlandicus,"Lemming, collared",Boigie,Male,2023-04-11,41,true
+Vancouver Zoo,Cebus albifrons,White-fronted capuchin,Aleen,Female,2023-02-02,26,true
+Edmonton Zoo,Tadorna tadorna,"Shelduck, european",Reagen,Male,2022-11-04,67,true
+Toronto Zoo,Alligator mississippiensis,American alligator,Haywood,Male,2022-09-01,56,true
+Vancouver Zoo,Podargus strigoides,Tawny frogmouth,Elga,Female,2023-08-15,63,false
+Toronto Zoo,Sagittarius serpentarius,Secretary bird,Candida,Female,2021-03-29,36,false
+Washington Zoo,Falco peregrinus,Peregrine falcon,Lorenzo,Male,2021-08-27,34,true
+Toronto Zoo,Fulica cristata,Red-knobbed coot,Ruthann,Female,2020-12-20,28,true
+Vancouver Zoo,Cereopsis novaehollandiae,"Goose, cereopsis",Rivy,Female,2022-04-14,76,true
+Toronto Zoo,Chordeiles minor,Common nighthawk,Ferrell,Male,2021-02-08,44,false
+Vancouver Zoo,Butorides striatus,"Heron, little",Hiram,Male,2023-09-19,67,false
+Toronto Zoo,Crotalus adamanteus,Eastern diamondback rattlesnake,Leonidas,Male,2021-10-19,42,true
+Vancouver Zoo,Ardea cinerea,"Heron, grey",Odilia,Female,2021-11-23,64,false
+Vancouver Zoo,Ceratotherium simum,White rhinoceros,Eulalie,Female,2022-05-31,48,false
+Vancouver Zoo,Mustela nigripes,Black-footed ferret,Regina,Female,2023-12-27,35,false
+Toronto Zoo,Neotis denhami,"Bustard, stanley",Kellsie,Female,2021-10-07,47,true
+Vancouver Zoo,Aquila chrysaetos,"Eagle, golden",Herold,Male,2021-11-24,45,true
+Toronto Zoo,Charadrius tricollaris,"Plover, three-banded",Donaugh,Male,2021-07-17,45,true
+Toronto Zoo,Ovis orientalis,Urial,Stephani,Female,2023-07-14,27,true
+Washington Zoo,Castor canadensis,American beaver,Barnabas,Male,2023-12-15,22,false
+Washington Zoo,Sciurus vulgaris,"Squirrel, eurasian red",Marc,Male,2021-12-18,56,true
+Washington Zoo,Pan troglodytes,Chimpanzee,Andria,Female,2021-05-07,38,true
+Vancouver Zoo,Nasua narica,White-nosed coatimundi,Rockey,Male,2022-10-10,45,false
+Edmonton Zoo,Crax sp.,Currasow (unidentified),Gerhardt,Male,2021-12-26,77,false
+Toronto Zoo,Colobus guerza,White-mantled colobus,Tremaine,Male,2021-11-08,34,true
+Toronto Zoo,Vulpes vulpes,North American red fox,Forbes,Male,2023-09-10,28,true
+Washington Zoo,Chauna torquata,"Screamer, crested",Heriberto,Male,2022-06-16,64,false
+Edmonton Zoo,Junonia genoveua,Tropical buckeye butterfly,Chick,Male,2022-01-17,80,true
+Washington Zoo,Branta canadensis,"Goose, canada",Jarred,Male,2021-09-21,20,false
+Edmonton Zoo,Dicrurus adsimilis,Fork-tailed drongo,Fred,Female,2023-05-10,79,true
+Vancouver Zoo,Casmerodius albus,Great egret,Celestina,Female,2022-12-16,56,false
+Toronto Zoo,Phalaropus lobatus,"Phalarope, red-necked",Susanne,Female,2022-09-30,23,true
+Washington Zoo,Canis lupus lycaon,"Wolf, timber",Vasili,Male,2022-01-07,32,true
+Washington Zoo,Ciconia ciconia,"Stork, white",Moshe,Male,2023-08-19,67,true
+Washington Zoo,Tamiasciurus hudsonicus,Red squirrel,Cam,Male,2023-01-26,35,false
+Vancouver Zoo,Colobus guerza,Magistrate black colobus,Emmett,Male,2023-04-03,53,true
+Toronto Zoo,Porphyrio porphyrio,"Moorhen, purple",Ceciley,Female,2021-12-07,61,true
+Washington Zoo,Tyto novaehollandiae,Australian masked owl,Vernor,Male,2021-11-25,46,true
+Vancouver Zoo,Otaria flavescens,Southern sea lion,Jackelyn,Female,2021-04-13,54,false
+Vancouver Zoo,Ara ararauna,"Macaw, blue and yellow",Creighton,Male,2023-11-24,38,false
+Washington Zoo,Galictis vittata,Grison,Keriann,Female,2023-03-19,53,false
+Vancouver Zoo,Sterna paradisaea,Arctic tern,Ursola,Female,2022-06-26,21,false
+Washington Zoo,Phalacrocorax varius,"Cormorant, pied",Kristo,Male,2023-08-11,68,true
+Vancouver Zoo,Sagittarius serpentarius,Secretary bird,Willetta,Female,2023-11-16,77,true
+Vancouver Zoo,Recurvirostra avosetta,"Avocet, pied",Valentino,Male,2024-01-17,72,false
+Toronto Zoo,Anthropoides paradisea,Stanley crane,Rayner,Male,2023-01-24,47,false
+Washington Zoo,Zenaida galapagoensis,"Dove, galapagos",Ollie,Female,2022-03-26,38,false
+Edmonton Zoo,Phacochoerus aethiopus,Warthog,Nevil,Male,2024-03-02,25,false
+Vancouver Zoo,Macropus parryi,Whip-tailed wallaby,Karlyn,Female,2023-09-07,25,true
+Toronto Zoo,Damaliscus lunatus,Tsessebe,Even,Male,2021-10-14,56,true
+Washington Zoo,Echimys chrysurus,White-faced tree rat,Birk,Male,2022-12-20,20,false
+Vancouver Zoo,Tragelaphus angasi,Nyala,Bari,Female,2022-10-31,58,true
+Washington Zoo,Crocodylus niloticus,"Crocodile, nile",Quinta,Female,2022-08-08,78,false
+Edmonton Zoo,Phoenicopterus ruber,Roseat flamingo,Patrice,Male,2024-01-02,46,true
+Washington Zoo,Bubo virginianus,"Owl, great horned",Charita,Female,2021-03-08,62,true
+Vancouver Zoo,Redunca redunca,Bohor reedbuck,Karyl,Female,2021-08-23,30,false
+Vancouver Zoo,Acridotheres tristis,"Mynah, common",Daryle,Male,2021-06-16,61,true
+Edmonton Zoo,Grus antigone,Sarus crane,Brook,Male,2024-02-20,67,false
+Vancouver Zoo,Felis libyca,"Cat, cape wild",Melly,Female,2023-09-19,42,false
+Edmonton Zoo,Graspus graspus,Sally lightfoot crab,Brig,Male,2022-04-06,61,false
+Edmonton Zoo,Lamprotornis chalybaeus,Greater blue-eared starling,Emerson,Male,2021-07-13,60,true
+Toronto Zoo,Agelaius phoeniceus,Red-winged blackbird,Tami,Female,2021-11-17,20,false
+Toronto Zoo,Cereopsis novaehollandiae,"Goose, cereopsis",Leandra,Female,2023-08-13,36,true
+Toronto Zoo,Colobus guerza,Black and white colobus,Anastasie,Female,2021-02-08,58,true
+Toronto Zoo,Marmota caligata,Hoary marmot,Rianon,Female,2022-03-30,70,true
+Edmonton Zoo,Ourebia ourebi,Oribi,Rourke,Male,2022-10-30,58,false
+Washington Zoo,Haematopus ater,Black curlew,Ayn,Female,2024-01-06,61,true
+Toronto Zoo,Gyps bengalensis,"Vulture, bengal",Manfred,Male,2020-12-14,56,false
+Edmonton Zoo,Tachybaptus ruficollis,Little grebe,Cyrill,Male,2022-06-23,80,true
+Toronto Zoo,Eumetopias jubatus,"Lion, steller sea",Livvy,Female,2022-07-24,67,false
+Vancouver Zoo,Coluber constrictor,Racer snake,Clara,Female,2022-08-08,58,false
+Toronto Zoo,Pteronura brasiliensis,"Otter, giant",Linnea,Female,2023-02-22,34,false
+Toronto Zoo,Xerus sp.,African ground squirrel (unidentified),Pavla,Female,2021-09-06,61,true
+Edmonton Zoo,Hymenolaimus malacorhynchus,"Duck, mountain",Hallie,Female,2022-01-12,55,true
+Edmonton Zoo,Pelecanus occidentalis,"Pelican, brown",Fax,Male,2021-02-26,22,false
+Edmonton Zoo,Ciconia episcopus,"Stork, woolly-necked",Melania,Female,2024-03-17,53,true
+Vancouver Zoo,Sarcophilus harrisii,Tasmanian devil,Latashia,Female,2023-08-10,60,false
+Toronto Zoo,Lycaon pictus,"Dog, african wild",Esmaria,Female,2023-07-02,73,true
+Vancouver Zoo,Varanus komodensis,"Dragon, komodo",Lonny,Male,2023-06-23,51,false
+Vancouver Zoo,Eumetopias jubatus,Steller sea lion,Monika,Female,2022-01-15,59,false
+Toronto Zoo,Nectarinia chalybea,Lesser double-collared sunbird,Rae,Female,2022-06-04,70,true
+Edmonton Zoo,Phalacrocorax carbo,"Cormorant, large",Rolland,Male,2022-08-30,74,false
+Toronto Zoo,Haliaeetus leucoryphus,"Eagle, pallas's fish",Reade,Male,2022-08-18,46,false
+Washington Zoo,Chlidonias leucopterus,"Tern, white-winged black",Dan,Male,2021-02-28,26,false
+Washington Zoo,Spermophilus tridecemlineatus,Thirteen-lined squirrel,Verna,Female,2023-10-04,56,false
+Vancouver Zoo,Pavo cristatus,"Peacock, blue",Vally,Female,2023-02-24,26,true
+Washington Zoo,Laniarius ferrugineus,Common boubou shrike,Donn,Male,2022-02-25,57,false
+Vancouver Zoo,Climacteris melanura,Black-tailed tree creeper,Emelyne,Female,2024-03-19,45,false
+Edmonton Zoo,Sagittarius serpentarius,Secretary bird,Virginia,Female,2020-12-18,71,false
+Toronto Zoo,Eolophus roseicapillus,"Cockatoo, roseate",Victoria,Female,2022-06-03,65,true
+Edmonton Zoo,Bucephala clangula,Barrows goldeneye,Rocky,Male,2021-05-05,19,false
+Vancouver Zoo,Phasianus colchicus,"Pheasant, common",Janette,Female,2021-05-15,45,false
+Toronto Zoo,Tragelaphus scriptus,Bushbuck,Karon,Female,2024-01-26,34,true
+Toronto Zoo,Fratercula corniculata,Horned puffin,Ava,Female,2022-02-12,54,false
+Washington Zoo,Falco peregrinus,Peregrine falcon,Margaret,Female,2022-07-11,20,false
+Toronto Zoo,Marmota monax,Woodchuck,Novelia,Female,2023-01-24,61,true
+Vancouver Zoo,Loxodonta africana,"Elephant, african",Julia,Female,2023-07-10,31,true
+Toronto Zoo,Laniarius ferrugineus,"Boubou, southern",Corty,Male,2021-03-28,29,false
+Vancouver Zoo,Echimys chrysurus,"Rat, arboral spiny",Christopher,Male,2020-12-31,36,true
+Toronto Zoo,Phoca vitulina,"Seal, harbor",Arlena,Female,2023-10-10,78,false
+Toronto Zoo,Tamandua tetradactyla,Southern tamandua,Rachael,Female,2021-05-23,53,false
+Toronto Zoo,unavailable,Caracara (unidentified),Olia,Female,2021-01-20,76,false
+Edmonton Zoo,Boa constrictor mexicana,Mexican boa,Arlen,Female,2022-08-21,69,true
+Vancouver Zoo,Numida meleagris,Helmeted guinea fowl,Reagan,Male,2022-12-12,37,true
+Washington Zoo,Boa constrictor mexicana,Mexican boa,Aldis,Male,2023-05-10,37,false
+Edmonton Zoo,Colobus guerza,Magistrate black colobus,Benedick,Male,2021-08-15,46,true
+Toronto Zoo,Litrocranius walleri,Gerenuk,Toddie,Male,2022-01-20,31,true
+Edmonton Zoo,Camelus dromedarius,"Camel, dromedary",Cathyleen,Female,2021-02-10,69,true
+Washington Zoo,Elephas maximus bengalensis,"Elephant, asian",Hermina,Female,2021-04-28,50,true
+Vancouver Zoo,Alcelaphus buselaphus cokii,Kongoni,Agnella,Female,2021-04-07,64,true
+Washington Zoo,Oxybelis sp.,Vine snake (unidentified),Sybila,Female,2022-08-27,30,true
+Edmonton Zoo,Papio cynocephalus,Savanna baboon,Yvor,Male,2023-05-25,44,true
+Toronto Zoo,Psophia viridis,Green-winged trumpeter,Mina,Female,2021-12-30,22,false
+Washington Zoo,Globicephala melas,Long-finned pilot whale,Budd,Male,2021-04-04,76,false
+Washington Zoo,Papio cynocephalus,"Baboon, savanna",Juliane,Female,2023-02-21,28,true
+Toronto Zoo,unavailable,Herring gull,Wait,Male,2021-11-22,60,true
+Vancouver Zoo,Hystrix cristata,"Porcupine, crested",Gerri,Female,2022-11-14,36,false
+Washington Zoo,Eudyptula minor,"Penguin, fairy",Larry,Male,2021-12-23,40,false
+Toronto Zoo,Cacatua galerita,Sulfur-crested cockatoo,Janessa,Female,2022-11-13,68,true
+Edmonton Zoo,Phalaropus lobatus,"Phalarope, red-necked",Carolynn,Female,2021-03-11,45,true
+Edmonton Zoo,Cervus duvauceli,Swamp deer,Byrom,Male,2021-08-08,35,false
+Edmonton Zoo,Cordylus giganteus,"Lizard, giant girdled",Talbot,Male,2021-01-10,57,false
+Vancouver Zoo,Martes americana,American marten,Padgett,Male,2023-04-03,56,false
+Toronto Zoo,Genetta genetta,"Genet, common",Beryl,Female,2022-08-18,66,false
+Edmonton Zoo,Dasypus novemcinctus,"Armadillo, common long-nosed",Phebe,Female,2021-03-19,37,false
+Toronto Zoo,Vulpes cinereoargenteus,Grey fox,Verna,Female,2021-05-24,30,false
+Toronto Zoo,Damaliscus dorcas,Blesbok,Killie,Male,2021-07-05,76,true
+Washington Zoo,Haliaeetus leucocephalus,Bald eagle,Vyky,Female,2022-02-02,56,false
+Vancouver Zoo,Pseudalopex gymnocercus,Pampa gray fox,Dora,Female,2021-08-24,66,false
+Toronto Zoo,Casmerodius albus,"Egret, great",Viv,Female,2021-11-25,71,true
+Edmonton Zoo,Choloepus hoffmani,"Sloth, two-toed",Noam,Male,2023-02-08,29,true
+Washington Zoo,Sciurus vulgaris,"Squirrel, european red",Carole,Female,2022-03-02,75,false
+Toronto Zoo,Anser caerulescens,Snow goose,Thane,Male,2023-06-15,22,false
+Toronto Zoo,Rangifer tarandus,Reindeer,Samson,Male,2022-10-17,19,false
+Vancouver Zoo,Tursiops truncatus,"Dolphin, bottle-nose",Ellissa,Female,2022-04-17,67,false
+Vancouver Zoo,Panthera onca,Jaguar,Prent,Male,2023-01-28,60,true
+Washington Zoo,Hydrochoerus hydrochaeris,Capybara,Crissie,Female,2022-06-25,18,false
+Washington Zoo,Canis lupus lycaon,Timber wolf,Daron,Male,2023-10-08,46,true
+Toronto Zoo,Felis concolor,South American puma,Jarrett,Male,2021-06-24,44,false
+Toronto Zoo,Macaca fuscata,"Macaque, japanese",Gabi,Male,2024-03-28,72,false
+Edmonton Zoo,Lamprotornis chalybaeus,"Starling, greater blue-eared",Ellie,Female,2022-08-18,39,false
+Vancouver Zoo,Crotalus triseriatus,"Rattlesnake, dusky",Joshia,Male,2023-04-21,37,true
+Washington Zoo,Ciconia episcopus,"Stork, woolly-necked",Theodoric,Male,2024-01-22,76,true
+Vancouver Zoo,Genetta genetta,"Genet, common",Traci,Female,2024-03-12,35,false
+Toronto Zoo,Diomedea irrorata,"Albatross, galapagos",Maynard,Male,2023-07-20,48,false
+Edmonton Zoo,unavailable,African snake (unidentified),Hertha,Female,2022-10-26,25,false
+Edmonton Zoo,Estrilda erythronotos,"Waxbill, black-cheeked",Engelbert,Male,2023-06-03,23,false
+Toronto Zoo,Psittacula krameri,"Parakeet, rose-ringed",Bren,Female,2021-01-05,80,true
+Edmonton Zoo,Falco mexicanus,"Falcon, prairie",Zenia,Female,2021-03-07,60,true
+Washington Zoo,Otocyon megalotis,"Fox, bat-eared",Saunderson,Male,2024-04-05,26,false
+Washington Zoo,Philetairus socius,Sociable weaver,Shayne,Male,2022-11-21,31,true
+Vancouver Zoo,Trichoglossus haematodus moluccanus,Rainbow lory,Berget,Female,2023-09-01,72,true
+Washington Zoo,Dasyurus maculatus,Tiger cat,Iain,Male,2022-01-05,60,false
+Toronto Zoo,Canis mesomelas,Silver-backed jackal,Rudy,Male,2022-02-13,39,true
+Toronto Zoo,Kobus vardonii vardoni,Puku,Torrin,Male,2023-10-06,54,true
+Toronto Zoo,Lorythaixoides concolor,Bare-faced go away bird,Zacharia,Male,2023-11-08,69,false
+Vancouver Zoo,Dasyurus maculatus,"Cat, tiger",Bert,Male,2022-08-10,55,false
+Toronto Zoo,Pitangus sulphuratus,Great kiskadee,Rachele,Female,2023-02-09,64,true
+Vancouver Zoo,Microcavia australis,Cuis,Dian,Female,2020-12-25,54,true
+Vancouver Zoo,Lorythaixoides concolor,Bare-faced go away bird,Annamarie,Female,2024-03-03,35,true
+Toronto Zoo,Ictalurus furcatus,"Catfish, blue",Taddeusz,Male,2021-07-13,39,true
+Washington Zoo,Ploceus intermedius,"Weaver, lesser masked",Helen-elizabeth,Female,2021-06-20,46,true
+Vancouver Zoo,Gyps bengalensis,White-rumped vulture,Valentijn,Male,2021-09-29,46,false
+Washington Zoo,Dendrocitta vagabunda,"Pie, indian tree",Vikky,Female,2021-11-15,43,true
+Edmonton Zoo,Pelecanus conspicillatus,Australian pelican,Gaye,Female,2021-01-13,79,true
+Vancouver Zoo,Megaderma spasma,"Bat, asian false vampire",Janessa,Female,2021-10-26,34,true
+Vancouver Zoo,Sagittarius serpentarius,"Bird, secretary",Walton,Male,2023-07-12,23,true
+Edmonton Zoo,Mycteria ibis,"Stork, yellow-billed",Erroll,Male,2023-07-24,37,false
+Washington Zoo,Dasyurus viverrinus,"Cat, native",Arlan,Male,2021-08-19,25,true
+Toronto Zoo,Macropus eugenii,Tammar wallaby,Drugi,Male,2021-09-28,31,true
+Washington Zoo,Libellula quadrimaculata,Russian dragonfly,Aleece,Female,2021-08-09,30,false
+Edmonton Zoo,Geochelone elegans,Indian star tortoise,Donny,Male,2024-02-26,21,false
+Washington Zoo,Caiman crocodilus,Spectacled caiman,Ogden,Male,2021-06-13,63,true
+Washington Zoo,Anastomus oscitans,"Openbill, asian",Maribelle,Female,2023-09-07,53,true
+Vancouver Zoo,Ciconia ciconia,White stork,Jacquenette,Female,2023-04-13,63,true
+Washington Zoo,Ratufa indica,Indian giant squirrel,Raye,Female,2022-04-14,41,false
+Vancouver Zoo,Bos taurus,Scottish highland cow,Irita,Female,2021-09-27,38,false
+Toronto Zoo,Caiman crocodilus,"Caiman, spectacled",Rae,Female,2024-01-18,61,true
+Edmonton Zoo,Bradypus tridactylus,Pale-throated three-toed sloth,Reeba,Female,2023-09-19,77,true
+Washington Zoo,Naja haje,Egyptian viper,Carolyne,Female,2023-09-07,77,true
+Toronto Zoo,unavailable,Paddy heron (unidentified),Reba,Female,2023-04-16,40,true
+Vancouver Zoo,Pavo cristatus,"Peacock, indian",Eustace,Male,2022-03-12,44,false
+Washington Zoo,Phylurus milli,Barking gecko,Humfried,Male,2022-05-11,48,false
+Vancouver Zoo,Papio cynocephalus,"Baboon, yellow",Nikita,Male,2021-01-07,58,true
+Edmonton Zoo,Geochelone elephantopus,Galapagos tortoise,Eric,Male,2024-03-22,63,false
+Toronto Zoo,Sylvicapra grimma,Gray duiker,Truda,Female,2024-04-02,38,false
+Washington Zoo,Orcinus orca,Orca,Izabel,Female,2021-02-15,65,false
+Washington Zoo,Spizaetus coronatus,Crowned eagle,Walden,Male,2022-09-03,42,true
+Vancouver Zoo,Lasiodora parahybana,Tarantula,Casie,Female,2020-12-29,66,true
+Vancouver Zoo,Uraeginthus angolensis,Blue-breasted cordon bleu,Claudie,Female,2021-07-15,56,true
+Toronto Zoo,Tayassu pecari,White-lipped peccary,Ulises,Male,2021-03-29,33,false
+Washington Zoo,Otocyon megalotis,Bat-eared fox,Lissy,Female,2023-12-06,47,false
+Edmonton Zoo,Bettongia penicillata,Woylie,Abner,Male,2022-01-25,42,true
+Vancouver Zoo,Hystrix cristata,"Porcupine, crested",Artair,Male,2021-12-03,58,false
+Edmonton Zoo,Heloderma horridum,"Monster, gila",Reinold,Male,2021-02-22,56,true
+Washington Zoo,Felis yagouaroundi,Jaguarundi,Joe,Male,2021-03-29,74,false
+Washington Zoo,Castor canadensis,North American beaver,Daisie,Female,2021-06-14,52,true
+Vancouver Zoo,Varanus sp.,"Legaan, Monitor (unidentified)",Chip,Male,2021-03-27,33,false
+Washington Zoo,Martes pennanti,Fisher,Tyson,Male,2024-04-05,75,true
+Vancouver Zoo,Columba livia,"Dove, rock",Lyssa,Female,2021-12-29,71,false
+Washington Zoo,Herpestes javanicus,Javan gold-spotted mongoose,Clarke,Male,2021-08-14,20,false
+Edmonton Zoo,Zonotrichia capensis,"Sparrow, rufous-collared",Rodger,Male,2022-04-18,27,false
+Washington Zoo,Recurvirostra avosetta,"Avocet, pied",Arabella,Female,2021-12-08,75,false
+Edmonton Zoo,Bucorvus leadbeateri,Southern ground hornbill,Shela,Female,2021-02-11,54,true
+Edmonton Zoo,Lemur catta,Ring-tailed lemur,Dav,Male,2022-10-04,42,false
+Edmonton Zoo,Rangifer tarandus,Reindeer,Miquela,Female,2021-10-31,28,true
+Edmonton Zoo,Macropus rufogriseus,Bennett's wallaby,Zebedee,Male,2023-04-06,25,true
+Edmonton Zoo,Amblyrhynchus cristatus,"Iguana, marine",Starlene,Female,2021-01-28,67,false
+Toronto Zoo,Felis caracal,"Lynx, african",Vita,Female,2022-05-30,59,true
+Washington Zoo,Mycteria leucocephala,Painted stork,Lisha,Female,2022-12-30,80,true
+Edmonton Zoo,Megaderma spasma,Asian false vampire bat,Melania,Female,2023-01-08,38,true
+Toronto Zoo,Hymenolaimus malacorhynchus,"Duck, blue",Jorge,Male,2022-06-20,79,false
+Vancouver Zoo,Meles meles,"Badger, eurasian",Allin,Male,2021-07-23,20,true
+Vancouver Zoo,Canis aureus,"Jackal, golden",Granthem,Male,2021-07-05,69,true
+Washington Zoo,Larus dominicanus,"Gull, southern black-backed",Ric,Male,2023-08-30,51,false
+Vancouver Zoo,Coendou prehensilis,"Porcupine, tree",Katrine,Female,2022-06-28,18,false
+Toronto Zoo,Cyrtodactylus louisiadensis,Bent-toed gecko,Aloise,Female,2022-10-29,26,true
+Edmonton Zoo,Butorides striatus,Little heron,Peg,Female,2022-09-07,26,true
+Washington Zoo,Spermophilus richardsonii,"Squirrel, richardson's ground",Linnea,Female,2022-08-23,48,false
+Edmonton Zoo,Varanus sp.,"Legaan, ground",Bord,Male,2023-10-13,79,false
+Washington Zoo,Spermophilus armatus,"Squirrel, uinta ground",Neile,Female,2023-06-10,44,false
+Edmonton Zoo,Hyaena hyaena,Striped hyena,Tiffie,Female,2021-04-06,40,false
+Toronto Zoo,Phascogale calura,Red-tailed phascogale,Elizabeth,Female,2021-11-14,44,true
+Washington Zoo,Macropus eugenii,"Wallaby, tammar",Rinaldo,Male,2023-04-02,73,true
+Washington Zoo,Antidorcas marsupialis,Springbuck,Shela,Female,2020-12-06,60,true
+Washington Zoo,Crotaphytus collaris,"Lizard, collared",Richmond,Male,2023-03-21,58,true
+Toronto Zoo,Numida meleagris,"Fowl, helmeted guinea",Val,Male,2023-10-09,23,true
+Toronto Zoo,Ara macao,"Macaw, scarlet",Jammal,Male,2023-09-18,38,true
+Vancouver Zoo,Epicrates cenchria maurus,"Boa, columbian rainbow",Alana,Female,2023-10-20,55,false
+Edmonton Zoo,Varanus salvator,"Monitor, two-banded",Rebeka,Female,2022-06-18,60,false
+Vancouver Zoo,Dasyurus maculatus,"Quoll, spotted-tailed",Bel,Female,2022-04-07,19,true
+Toronto Zoo,Panthera leo,"Lion, african",Byrle,Male,2023-10-11,21,true
+Washington Zoo,unavailable,Bird (unidentified),Hank,Male,2023-09-06,32,false
+Edmonton Zoo,unavailable,Old world fruit bat (unidentified),Jo-ann,Female,2022-09-16,20,true
+Toronto Zoo,Caiman crocodilus,"Caiman, spectacled",Freeland,Male,2023-11-22,40,false
+Edmonton Zoo,unavailable,Mudskipper (unidentified),Elora,Female,2022-04-19,19,false
+Toronto Zoo,Sarkidornis melanotos,"Goose, knob-nosed",Eadie,Female,2023-10-30,62,false
+Edmonton Zoo,Chordeiles minor,Common nighthawk,Roselin,Female,2021-12-30,63,false
+Vancouver Zoo,Laniaurius atrococcineus,"Gonolek, burchell's",Fleur,Female,2022-02-07,43,true

@@ -1,0 +1,43 @@
+extends layout
+
+include ../partials/_title
+
+block content
+  include ../partials/_navbar
+
+block content
+  div.container
+    h1 Entry Form
+
+    // Animal Entry Form (I think)
+    form(action="/animals/new", method="post")
+      div.form-group
+        label(for="zoo") Zoo:</label>
+        input(type="text", id="zoo", name="zoo", class="form-control" required)
+      div.form-group
+        label(for="scientificName") Scientific Name:</label>
+        input(type="text", id="scientificName", name="scientificName", class="form-control" required)
+      div.form-group
+        label(for="commonName") Common Name:</label>
+        input(type="text", id="commonName", name="commonName", class="form-control" required)
+      div.form-group
+        label(for="givenName") Given Name:</label>
+        input(type="text", id="givenName", name="givenName", class="form-control" required)
+      div.form-group
+        label(for="gender") Gender:</label>
+        select(id="gender", name="gender", class="form-control" required)
+          option(value="Male") Male
+          option(value="Female") Female
+          option(value="Other") Other
+      div.form-group
+        label(for="dateOfBirth") Date of Birth:</label>
+        input(type="date", id="dateOfBirth", name="dateOfBirth", class="form-control" required)
+      div.form-group
+        label(for="age") Age:</label>
+        input(type="number", id="age", name="age", class="form-control" required)
+      div.form-group
+        label(for="isTransportable") Is Transportable:</label>
+        input(type="checkbox", id="isTransportable", name="isTransportable", class="form-check-input")
+      br
+      button(type="submit", class="btn btn-primary") Add Animal
+      button(type="reset", class="btn btn-secondary") Reset Form

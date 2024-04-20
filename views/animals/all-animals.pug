@@ -1,0 +1,27 @@
+extends layout
+
+include ../partials/_title
+
+block content
+  include ../partials/_navbar
+
+  
+  extends layout
+
+block content
+  div.container
+    h1 All Animals
+
+    // Display all animals (I hope)
+    each animal in animals
+      div.card.mb-3
+        div.card-body
+          h5.card-title= animal.givenName
+          p.card-text Zoo: #{animal.zoo}
+          p.card-text Scientific Name: #{animal.scientificName}
+          p.card-text Common Name: #{animal.commonName}
+          p.card-text Gender: #{animal.gender}
+          p.card-text Date of Birth: #{animal.dateOfBirth.toLocaleDateString()}
+          p.card-text Age: #{animal.age}
+          p.card-text Is Transportable: #{animal.isTransportable ? 'Yes' : 'No'}
+          a.btn.btn-primary(href="/edit-animal/#{animal._id}") Edit
